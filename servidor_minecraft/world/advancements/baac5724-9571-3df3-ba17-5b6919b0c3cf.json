@@ -1,0 +1,47 @@
+{
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-29 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-29 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-29 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-12-29 03:01:47 +0000",
+      "minecraft:forest": "2024-12-29 02:59:56 +0000",
+      "minecraft:plains": "2024-12-29 03:00:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-29 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
