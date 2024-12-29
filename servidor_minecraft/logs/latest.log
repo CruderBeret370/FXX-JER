@@ -897,3 +897,24 @@ java.lang.IllegalStateException: not found
 [29Dec2024 22:31:13.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
 [29Dec2024 22:31:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
 [29Dec2024 22:31:30.106] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.198.191:51709 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[29Dec2024 22:33:14.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
+[29Dec2024 22:33:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
+[29Dec2024 22:33:32.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:44781] logged in with entity id 181163 at (-194.8365426016554, 93.5625, -4211.717964643418)
+[29Dec2024 22:33:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
+[29Dec2024 22:34:03.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[29Dec2024 22:34:03.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
+[29Dec2024 22:34:32.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANDY_SN lost connection: Disconnected
+[29Dec2024 22:34:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
+[29Dec2024 22:34:42.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 22:34:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 22:34:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 22:34:42.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 22:34:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 22:34:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Dec2024 22:34:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 22:34:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
