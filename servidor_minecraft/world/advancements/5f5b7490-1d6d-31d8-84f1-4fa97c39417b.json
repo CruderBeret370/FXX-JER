@@ -10,11 +10,13 @@
       "minecraft:snowy_slopes": "2024-12-29 16:27:10 +0000",
       "minecraft:taiga": "2024-12-29 19:19:44 +0000",
       "minecraft:sunflower_plains": "2024-12-29 16:30:21 +0000",
+      "minecraft:beach": "2024-12-29 19:36:06 +0000",
       "minecraft:river": "2024-12-29 16:30:25 +0000",
       "minecraft:stony_shore": "2024-12-29 02:59:10 +0000",
       "minecraft:dripstone_caves": "2024-12-29 16:38:19 +0000",
       "minecraft:cold_ocean": "2024-12-29 16:59:05 +0000",
       "minecraft:forest": "2024-12-29 02:46:23 +0000",
+      "minecraft:ocean": "2024-12-29 19:36:09 +0000",
       "minecraft:deep_dark": "2024-12-29 16:55:41 +0000",
       "minecraft:meadow": "2024-12-29 16:38:14 +0000",
       "minecraft:plains": "2024-12-29 02:46:33 +0000"
@@ -526,6 +528,7 @@
       "minecraft:creeper": "2024-12-29 15:51:57 +0000",
       "minecraft:cave_spider": "2024-12-29 18:02:21 +0000",
       "minecraft:zombie": "2024-12-29 15:34:35 +0000",
+      "minecraft:drowned": "2024-12-29 19:31:23 +0000",
       "minecraft:zombie_villager": "2024-12-29 18:14:13 +0000"
     },
     "done": false
@@ -1640,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-29 19:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-29 19:13:01 +0000"
@@ -1685,6 +1694,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-29 19:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-29 19:35:06 +0000"
     },
     "done": true
   },
