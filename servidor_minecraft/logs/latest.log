@@ -205,3 +205,22 @@ java.lang.IllegalStateException: not found
 [29Dec2024 17:16:22.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.16.110.60:34571] logged in with entity id 12915 at (104.69999998807907, 67.0, 144.2498300308929)
 [29Dec2024 17:16:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
 [29Dec2024 17:16:34.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Cover Me with Diamonds]
+[29Dec2024 17:20:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> 60 -34 91
+[29Dec2024 17:26:19.435] [Thread-74/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[29Dec2024 17:26:19.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANDY_SN[/127.79.253.177:53243] logged in with entity id 14534 at (9.536649840066667, 54.0, 224.6865013108867)
+[29Dec2024 17:26:19.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
+[29Dec2024 17:26:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> oña
+[29Dec2024 17:26:44.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> retrocedi en el tiempo ._.
