@@ -243,3 +243,16 @@ java.lang.IllegalStateException: not found
 [29Dec2024 17:39:27.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
 [29Dec2024 17:42:25.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has reached the goal [Hunted]
 [29Dec2024 17:51:29.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Vampire Slayer]
+[29Dec2024 18:08:15.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Vampire Slayer]
+[29Dec2024 18:08:47.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[29Dec2024 18:08:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
+[29Dec2024 18:08:55.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:47229] logged in with entity id 20562 at (-10.738842404439433, -35.0, 42.265510497896585)
+[29Dec2024 18:08:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
+[29Dec2024 18:12:26.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has reached the goal [Hunted]
+[29Dec2024 18:13:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has reached the goal [Troll Hunter]
+[29Dec2024 18:14:23.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Not Today, Thank You]
+[29Dec2024 18:21:00.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[29Dec2024 18:21:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
+[29Dec2024 18:21:16.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:35787] logged in with entity id 22419 at (-35.25354670046326, -12.0, -69.30000001192093)
+[29Dec2024 18:21:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
+[29Dec2024 18:24:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro suffocated in a wall

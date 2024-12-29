@@ -522,7 +522,9 @@
       "minecraft:skeleton": "2024-12-29 16:59:12 +0000",
       "minecraft:spider": "2024-12-29 15:35:31 +0000",
       "minecraft:creeper": "2024-12-29 15:51:57 +0000",
-      "minecraft:zombie": "2024-12-29 15:34:35 +0000"
+      "minecraft:cave_spider": "2024-12-29 18:02:21 +0000",
+      "minecraft:zombie": "2024-12-29 15:34:35 +0000",
+      "minecraft:zombie_villager": "2024-12-29 18:14:13 +0000"
     },
     "done": false
   },
@@ -1441,6 +1443,72 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-29 17:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-29 18:02:30 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2024-12-29 18:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-29 18:02:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2024-12-29 18:02:53 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-29 18:08:15 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-29 18:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-29 18:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-29 18:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-29 18:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-29 18:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-29 18:19:24 +0000"
     },
     "done": true
   },
