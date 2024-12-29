@@ -400,13 +400,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-29 20:43:35 +0000",
+      "chicken": "2024-12-29 22:10:20 +0000",
       "sweet_berries": "2024-12-29 20:14:08 +0000",
       "cooked_beef": "2024-12-29 20:37:54 +0000",
       "beef": "2024-12-29 20:03:15 +0000",
       "porkchop": "2024-12-29 20:06:36 +0000",
       "cooked_cod": "2024-12-29 21:08:26 +0000",
       "mutton": "2024-12-29 20:02:46 +0000",
+      "bread": "2024-12-29 22:02:32 +0000",
       "rotten_flesh": "2024-12-29 21:07:03 +0000",
+      "glow_berries": "2024-12-29 22:01:57 +0000",
       "salmon": "2024-12-29 20:04:33 +0000",
       "cooked_salmon": "2024-12-29 20:31:00 +0000"
     },
@@ -1660,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-29 22:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-29 21:52:30 +0000"
@@ -1690,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-29 22:10:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-29 21:46:58 +0000"
@@ -1717,6 +1732,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-29 21:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-29 22:10:13 +0000"
     },
     "done": true
   },
@@ -1753,6 +1774,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-29 21:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-29 22:21:10 +0000"
     },
     "done": true
   },
@@ -1864,6 +1891,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 22:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 22:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-29 21:37:22 +0000"
@@ -1909,6 +1948,12 @@
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-29 21:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-29 22:10:13 +0000"
     },
     "done": true
   },
@@ -1975,6 +2020,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-29 21:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 22:07:52 +0000"
     },
     "done": true
   },
