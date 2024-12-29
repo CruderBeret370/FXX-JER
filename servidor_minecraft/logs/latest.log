@@ -296,3 +296,24 @@ java.lang.IllegalStateException: not found
 [29Dec2024 19:32:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> y no se de que hablas
 [29Dec2024 19:32:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> maldito down
 [29Dec2024 19:32:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> tonto
+[29Dec2024 19:41:20.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=40, z=-2999} BlockPos{x=-156, y=41, z=-2999}
+[29Dec2024 19:42:36.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8949ms or 178 ticks behind
+[29Dec2024 19:44:17.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[29Dec2024 19:44:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
+[29Dec2024 19:44:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
+[29Dec2024 19:44:26.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:36081] logged in with entity id 57045 at (-156.31382370278078, 40.0, -2991.4316647767314)
+[29Dec2024 19:44:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
+[29Dec2024 19:44:35.858] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44998df0[id=<null>,name=MarSS_JQ,properties={},legacy=false] (/127.14.134.218:44217) lost connection: Disconnected
+[29Dec2024 19:45:53.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e40d481[id=<null>,name=MarSS_JQ,properties={},legacy=false] (/127.14.134.218:34137) lost connection: Disconnected
+[29Dec2024 19:47:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
+[29Dec2024 19:48:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> XD
+[29Dec2024 19:49:32.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:41531] logged in with entity id 58127 at (7.5, 75.0, 49.5)
+[29Dec2024 19:49:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
+[29Dec2024 19:49:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> Jorgito Quishpe?
+[29Dec2024 19:51:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
+[29Dec2024 19:52:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ froze to death
+[29Dec2024 19:52:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
+[29Dec2024 19:53:00.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> 7 PALABRAS
+[29Dec2024 19:53:03.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Stone Age]
+[29Dec2024 19:53:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> E S E N C I A
+[29Dec2024 19:53:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Getting an Upgrade]
