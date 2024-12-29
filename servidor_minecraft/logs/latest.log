@@ -238,3 +238,8 @@ java.lang.IllegalStateException: not found
 [29Dec2024 17:36:12.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
 [29Dec2024 17:36:25.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:42477] logged in with entity id 16377 at (43.53214318752291, -35.4375, 81.09325646458772)
 [29Dec2024 17:36:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
+[29Dec2024 17:38:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> estan debajo de mi
+[29Dec2024 17:39:27.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANDY_SN lost connection: Disconnected
+[29Dec2024 17:39:27.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
+[29Dec2024 17:42:25.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has reached the goal [Hunted]
+[29Dec2024 17:51:29.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Vampire Slayer]
