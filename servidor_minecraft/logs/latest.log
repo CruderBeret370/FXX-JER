@@ -256,3 +256,4 @@ java.lang.IllegalStateException: not found
 [29Dec2024 18:21:16.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:35787] logged in with entity id 22419 at (-35.25354670046326, -12.0, -69.30000001192093)
 [29Dec2024 18:21:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
 [29Dec2024 18:24:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro suffocated in a wall
+[29Dec2024 18:34:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro hit the ground too hard
