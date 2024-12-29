@@ -417,3 +417,10 @@ java.lang.IllegalStateException: not found
 [29Dec2024 20:41:04.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
 [29Dec2024 20:45:38.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40329, l='ServerLevel[world]', x=-162.87, y=70.00, z=-4192.49] died, message: 'Villager suffocated in a wall'
 [29Dec2024 20:46:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Diamonds!]
+[29Dec2024 20:51:23.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
+[29Dec2024 20:51:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
+[29Dec2024 20:53:17.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:44525] logged in with entity id 104426 at (1.6643406596651495, 80.67647087614428, -4429.674566746233)
+[29Dec2024 20:53:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
+[29Dec2024 20:53:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> ez
+[29Dec2024 21:03:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Cover Me with Diamonds]
+[29Dec2024 21:07:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has reached the goal [Hunted]

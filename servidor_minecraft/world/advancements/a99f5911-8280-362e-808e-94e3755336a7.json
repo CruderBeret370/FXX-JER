@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-29 21:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 20:34:58 +0000"
@@ -1370,6 +1376,7 @@
       "minecraft:cherry_grove": "2024-12-29 20:02:26 +0000",
       "minecraft:sunflower_plains": "2024-12-29 20:02:52 +0000",
       "minecraft:birch_forest": "2024-12-29 20:14:48 +0000",
+      "minecraft:windswept_hills": "2024-12-29 21:04:47 +0000",
       "minecraft:beach": "2024-12-29 20:16:21 +0000",
       "minecraft:river": "2024-12-29 20:04:02 +0000",
       "minecraft:stony_shore": "2024-12-29 20:11:59 +0000",
@@ -1455,6 +1462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 21:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-29 20:29:08 +0000"
@@ -1469,6 +1482,7 @@
       "beef": "2024-12-29 20:03:15 +0000",
       "porkchop": "2024-12-29 20:06:36 +0000",
       "mutton": "2024-12-29 20:02:46 +0000",
+      "rotten_flesh": "2024-12-29 21:07:03 +0000",
       "salmon": "2024-12-29 20:04:33 +0000",
       "cooked_salmon": "2024-12-29 20:31:00 +0000"
     },
@@ -1489,6 +1503,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-29 20:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 21:05:46 +0000"
     },
     "done": true
   },
