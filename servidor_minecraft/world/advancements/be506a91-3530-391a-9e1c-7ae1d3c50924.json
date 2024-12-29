@@ -23,6 +23,7 @@
       "minecraft:taiga": "2024-12-29 18:40:46 +0000",
       "minecraft:deep_ocean": "2024-12-29 19:01:55 +0000",
       "minecraft:sunflower_plains": "2024-12-29 16:30:06 +0000",
+      "minecraft:windswept_hills": "2024-12-29 19:14:31 +0000",
       "minecraft:beach": "2024-12-29 18:42:41 +0000",
       "minecraft:river": "2024-12-29 16:30:23 +0000",
       "minecraft:stony_shore": "2024-12-29 03:12:30 +0000",
@@ -353,6 +354,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-29 16:41:15 +0000",
       "minecraft:spider": "2024-12-29 17:42:30 +0000",
+      "minecraft:creeper": "2024-12-29 19:15:11 +0000",
       "minecraft:slime": "2024-12-29 17:58:49 +0000",
       "minecraft:cave_spider": "2024-12-29 17:21:36 +0000",
       "minecraft:zombie": "2024-12-29 03:17:02 +0000"
@@ -953,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-29 19:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-29 18:56:33 +0000"
@@ -1175,6 +1183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-29 19:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-29 18:40:49 +0000"
@@ -1295,9 +1309,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-29 19:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-29 19:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 16:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 19:09:07 +0000"
     },
     "done": true
   },
@@ -1364,6 +1396,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-29 16:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-29 19:09:07 +0000"
     },
     "done": true
   },
@@ -1571,6 +1609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 19:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-29 17:09:30 +0000"
@@ -1592,6 +1636,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-29 18:26:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2024-12-29 19:09:07 +0000"
     },
     "done": true
   },
@@ -1640,6 +1690,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-29 16:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-29 19:16:34 +0000"
     },
     "done": true
   },

@@ -257,3 +257,30 @@ java.lang.IllegalStateException: not found
 [29Dec2024 18:21:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
 [29Dec2024 18:24:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro suffocated in a wall
 [29Dec2024 18:34:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro hit the ground too hard
+[29Dec2024 19:08:30.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro moved too quickly! 2.7936026660119637,-1.1767592750642422,-9.680362879499626
+[29Dec2024 19:09:07.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Ice Bucket Challenge]
+[29Dec2024 19:11:07.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> Argonsito_Pro
+[29Dec2024 19:11:27.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro moved too quickly! 7.034007220290732,2.0724278036804407,-7.316016090265293
+[29Dec2024 19:11:45.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
+[29Dec2024 19:14:53.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -199 88 -4199
+[29Dec2024 19:16:32.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -199 88 -4199
+[29Dec2024 19:18:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ti
+[29Dec2024 19:18:54.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40358, l='ServerLevel[world]', x=-172.60, y=71.38, z=-4221.39] died, message: 'Villager hit the ground too hard'
+[29Dec2024 19:18:54.654] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40324, l='ServerLevel[world]', x=-172.95, y=71.38, z=-4220.67] died, message: 'Villager hit the ground too hard'
+[29Dec2024 19:19:19.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:22.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:26.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:19:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
+[29Dec2024 19:20:46.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -212 62 -756
+[29Dec2024 19:23:14.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44161, l='ServerLevel[world]', x=-229.58, y=68.94, z=-741.27] died, message: 'Villager was slain by salchipollazito'
+[29Dec2024 19:24:17.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/44157, l='ServerLevel[world]', x=-225.82, y=70.56, z=-736.60] died, message: 'Toolsmith was slain by salchipollazito'
+[29Dec2024 19:24:30.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44160, l='ServerLevel[world]', x=-235.46, y=69.00, z=-728.49] died, message: 'Villager was slain by salchipollazito'
+[29Dec2024 19:24:49.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ya me cayo :((((((((((
+[29Dec2024 19:25:45.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Ice Bucket Challenge]
+[29Dec2024 19:27:46.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44162, l='ServerLevel[world]', x=-232.46, y=70.00, z=-727.85] died, message: 'Villager was slain by salchipollazito'
+[29Dec2024 19:28:11.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44212, l='ServerLevel[world]', x=-215.48, y=64.87, z=-758.10] died, message: 'Villager was slain by salchipollazito'
