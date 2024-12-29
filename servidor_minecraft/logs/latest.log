@@ -140,3 +140,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 16:23:19.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.16.110.60:41923] logged in with entity id 385 at (12.699999988079071, 69.0, 27.69999998807907)
 [29Dec2024 16:23:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
 [29Dec2024 16:23:55.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro fell from a high place
+[29Dec2024 16:26:05.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Timed out
+[29Dec2024 16:26:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
+[29Dec2024 16:26:05.770] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 16:26:40.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:37537] logged in with entity id 1155 at (22.133378857786262, 94.0, 174.11632320948846)
+[29Dec2024 16:26:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[29Dec2024 16:28:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Acquire Hardware]
+[29Dec2024 16:33:09.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Isn't It Iron Pick]
+[29Dec2024 16:34:07.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Sweet Dreams]
+[29Dec2024 16:35:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Sweet Dreams]
+[29Dec2024 16:35:21.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/148, l='ServerLevel[world]', x=-153.67, y=102.98, z=107.93] died, message: 'Leatherworker was slain by Argonsito_Pro'
+[29Dec2024 16:35:24.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1753, l='ServerLevel[world]', x=-151.70, y=103.00, z=113.91] died, message: 'Farmer was slain by Argonsito_Pro'
+[29Dec2024 16:35:32.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/152, l='ServerLevel[world]', x=-135.54, y=104.00, z=103.51] died, message: 'Leatherworker was slain by Argonsito_Pro'
+[29Dec2024 16:35:38.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/154, l='ServerLevel[world]', x=-119.08, y=103.00, z=93.90] died, message: 'Leatherworker was slain by Argonsito_Pro'
+[29Dec2024 16:35:48.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/147, l='ServerLevel[world]', x=-146.38, y=104.94, z=122.02] died, message: 'Mason was slain by Argonsito_Pro'
+[29Dec2024 16:38:43.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> una minita
+[29Dec2024 16:39:00.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fa02c1[id=<null>,name=ANDY_SN,properties={},legacy=false] (/127.79.253.177:49647) lost connection: Disconnected
+[29Dec2024 16:41:08.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Not Today, Thank You]
+[29Dec2024 16:41:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Acquire Hardware]
+[29Dec2024 16:42:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro fell from a high place
+[29Dec2024 16:42:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Hot Stuff]
