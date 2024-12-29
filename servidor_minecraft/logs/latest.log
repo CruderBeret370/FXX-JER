@@ -460,3 +460,10 @@ java.lang.IllegalStateException: not found
 [29Dec2024 21:32:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
 [29Dec2024 21:35:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN was slain by Cave Spider
 [29Dec2024 21:40:50.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Diamonds!]
+[29Dec2024 21:46:14.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/126747, l='ServerLevel[world]', x=162.37, y=133.00, z=350.50] died, message: 'Villager froze to death'
+[29Dec2024 21:47:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -1499
+[29Dec2024 21:47:09.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
+[29Dec2024 21:48:41.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=72, z=-4172} BlockPos{x=-1088, y=70, z=-4172}
+[29Dec2024 21:48:41.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1089, y=72, z=-4172} BlockPos{x=-1088, y=70, z=-4172}
+[29Dec2024 21:48:51.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> si puede romper un pico de oro con un bloque de oro
+[29Dec2024 21:51:23.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1260, y=70, z=-4402} BlockPos{x=-1260, y=68, z=-4403}
