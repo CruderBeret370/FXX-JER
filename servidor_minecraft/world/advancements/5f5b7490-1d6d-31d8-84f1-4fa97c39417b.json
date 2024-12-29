@@ -532,7 +532,9 @@
       "minecraft:skeleton": "2024-12-29 16:59:12 +0000",
       "minecraft:spider": "2024-12-29 15:35:31 +0000",
       "minecraft:creeper": "2024-12-29 15:51:57 +0000",
+      "minecraft:witch": "2024-12-29 21:22:15 +0000",
       "minecraft:cave_spider": "2024-12-29 18:02:21 +0000",
+      "minecraft:enderman": "2024-12-29 21:28:17 +0000",
       "minecraft:zombie": "2024-12-29 15:34:35 +0000",
       "minecraft:drowned": "2024-12-29 19:31:23 +0000",
       "minecraft:zombie_villager": "2024-12-29 18:14:13 +0000"
@@ -1829,6 +1831,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-29 20:30:53 +0000"
@@ -1838,6 +1852,18 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-29 21:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-29 21:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
     },
     "done": true
   },
@@ -1853,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-29 20:30:53 +0000"
@@ -1862,6 +1894,18 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-29 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2024-12-29 21:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
     },
     "done": true
   },
@@ -1889,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-29 21:09:37 +0000"
@@ -1898,6 +1948,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-29 21:22:16 +0000"
     },
     "done": true
   },

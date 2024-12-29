@@ -431,3 +431,32 @@ java.lang.IllegalStateException: not found
 [29Dec2024 21:12:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! 9.321851768918464,0.0,4.322624764417924
 [29Dec2024 21:13:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Cover Me with Diamonds]
 [29Dec2024 21:17:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito was impaled on a stalagmite
+[29Dec2024 21:20:48.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! 1.3335506192408957,-1.2712241076924755,10.116456924918566
+[29Dec2024 21:21:06.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
+[29Dec2024 21:21:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
+[29Dec2024 21:25:26.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:48335] logged in with entity id 118680 at (-273.4895558195756, -16.0, -4366.87273245791)
+[29Dec2024 21:25:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
+[29Dec2024 21:28:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Blindfolded]
+[29Dec2024 21:29:18.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Take Aim]
+[29Dec2024 21:29:29.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Vampire Slayer]
+[29Dec2024 21:30:00.523] [Thread-354/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[29Dec2024 21:30:00.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANDY_SN[/127.79.253.177:54251] logged in with entity id 120789 at (30.408652604449397, 66.0, 57.463586131341245)
+[29Dec2024 21:30:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
+[29Dec2024 21:30:17.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/121072, l='ServerLevel[world]', x=130.26, y=-49.00, z=-4862.98] died: Intruder was blown up by Faller
+[29Dec2024 21:32:14.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:60921] logged in with entity id 122960 at (-241.41525826426468, 82.0, -4151.160010354176)
+[29Dec2024 21:32:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[29Dec2024 21:35:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN was slain by Cave Spider
+[29Dec2024 21:40:50.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Diamonds!]
