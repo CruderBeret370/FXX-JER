@@ -487,6 +487,7 @@
       "cooked_porkchop": "2024-12-29 19:58:58 +0000",
       "cooked_mutton": "2024-12-29 20:11:41 +0000",
       "sweet_berries": "2024-12-29 20:56:23 +0000",
+      "cooked_beef": "2024-12-29 21:14:26 +0000",
       "mutton": "2024-12-29 20:55:34 +0000",
       "bread": "2024-12-29 21:00:23 +0000",
       "rotten_flesh": "2024-12-29 20:07:44 +0000"
@@ -498,6 +499,7 @@
       "minecraft:skeleton": "2024-12-29 19:59:18 +0000",
       "minecraft:spider": "2024-12-29 20:21:18 +0000",
       "minecraft:creeper": "2024-12-29 20:20:44 +0000",
+      "minecraft:witch": "2024-12-29 21:10:29 +0000",
       "minecraft:silverfish": "2024-12-29 20:11:43 +0000",
       "minecraft:zombie": "2024-12-29 19:59:57 +0000"
     },
@@ -1445,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-29 21:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-29 20:57:38 +0000"
@@ -1454,6 +1462,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-29 20:57:38 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-29 21:07:33 +0000"
     },
     "done": true
   },
@@ -1469,9 +1483,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-29 21:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-29 21:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-29 20:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-29 21:10:31 +0000"
     },
     "done": true
   },

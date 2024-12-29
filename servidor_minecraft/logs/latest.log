@@ -424,3 +424,10 @@ java.lang.IllegalStateException: not found
 [29Dec2024 20:53:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> ez
 [29Dec2024 21:03:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Cover Me with Diamonds]
 [29Dec2024 21:07:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has reached the goal [Hunted]
+[29Dec2024 21:10:55.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EAAC2020 lost connection: Disconnected
+[29Dec2024 21:10:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 left the game
+[29Dec2024 21:11:43.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EAAC2020[/127.138.117.92:42929] logged in with entity id 112421 at (158.69999998807907, -45.0, -4440.987631944149)
+[29Dec2024 21:11:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 joined the game
+[29Dec2024 21:12:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! 9.321851768918464,0.0,4.322624764417924
+[29Dec2024 21:13:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Cover Me with Diamonds]
+[29Dec2024 21:17:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito was impaled on a stalagmite
