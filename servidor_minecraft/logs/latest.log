@@ -224,3 +224,17 @@ java.lang.IllegalStateException: not found
 [29Dec2024 17:26:19.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
 [29Dec2024 17:26:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> oña
 [29Dec2024 17:26:44.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> retrocedi en el tiempo ._.
+[29Dec2024 17:27:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> tengo hambre pipipi
+[29Dec2024 17:28:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> es justo lo que iva a poner
+[29Dec2024 17:28:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Suit Up]
+[29Dec2024 17:30:05.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> niña chay dijiste que me querias
+[29Dec2024 17:30:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> es de noche?
+[29Dec2024 17:31:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> oe ustedes exploraron la mina que estava en el cerro de nieve?
+[29Dec2024 17:32:12.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=-35, z=47} BlockPos{x=-2, y=-35, z=47}
+[29Dec2024 17:32:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> hablo de esa mina que tiene carriles
+[29Dec2024 17:33:11.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> necesito una torta de jamon
+[29Dec2024 17:34:58.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> ayudaaaaaaaaaaaaa
+[29Dec2024 17:36:12.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[29Dec2024 17:36:12.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
+[29Dec2024 17:36:25.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:42477] logged in with entity id 16377 at (43.53214318752291, -35.4375, 81.09325646458772)
+[29Dec2024 17:36:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
