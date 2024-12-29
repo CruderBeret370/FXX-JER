@@ -399,3 +399,21 @@ java.lang.IllegalStateException: not found
 [29Dec2024 20:37:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> voy a minar
 [29Dec2024 20:37:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> si
 [29Dec2024 20:38:10.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Isn't It Iron Pick]
+[29Dec2024 20:39:43.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.39774079404588747,0.0,-10.392389129423464
+[29Dec2024 20:39:43.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.4130385168938062,0.0,-10.792096403632058
+[29Dec2024 20:39:44.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[29Dec2024 20:39:56.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.39774079404588747,0.0,-10.392389129423464
+[29Dec2024 20:39:56.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.4130385168938062,0.0,-10.792096403632058
+[29Dec2024 20:39:56.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.42833623974172497,0.0,-11.191803677840653
+[29Dec2024 20:39:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.4436339625896437,0.0,-11.591510952049248
+[29Dec2024 20:39:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.45893168543756246,0.0,-11.991218226257843
+[29Dec2024 20:40:06.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6560ms or 131 ticks behind
+[29Dec2024 20:40:39.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EAAC2020 moved too quickly! 0.018751172202485122,-10.408991223757717,1.0265062204580317
+[29Dec2024 20:40:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Not Today, Thank You]
+[29Dec2024 20:40:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> pasen coords
+[29Dec2024 20:40:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> me pedi
+[29Dec2024 20:41:00.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
+[29Dec2024 20:41:04.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
+[29Dec2024 20:41:04.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
+[29Dec2024 20:45:38.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40329, l='ServerLevel[world]', x=-162.87, y=70.00, z=-4192.49] died, message: 'Villager suffocated in a wall'
+[29Dec2024 20:46:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Diamonds!]

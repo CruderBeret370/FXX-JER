@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-29 20:40:58 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-12-29 19:53:37 +0000"
@@ -134,6 +140,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-29 19:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-29 20:40:58 +0000"
     },
     "done": true
   },
@@ -669,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-29 20:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 20:04:42 +0000"
@@ -720,6 +738,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 20:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-29 20:43:26 +0000"
     },
     "done": true
   },
@@ -1087,12 +1111,15 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-29 19:51:02 +0000",
       "minecraft:taiga": "2024-12-29 20:36:26 +0000",
+      "minecraft:deep_ocean": "2024-12-29 20:39:36 +0000",
       "minecraft:birch_forest": "2024-12-29 20:36:09 +0000",
+      "minecraft:windswept_hills": "2024-12-29 20:45:21 +0000",
       "minecraft:beach": "2024-12-29 20:36:02 +0000",
       "minecraft:river": "2024-12-29 19:53:40 +0000",
       "minecraft:stony_shore": "2024-12-29 19:53:02 +0000",
       "minecraft:dripstone_caves": "2024-12-29 20:08:46 +0000",
       "minecraft:forest": "2024-12-29 19:49:33 +0000",
+      "minecraft:ocean": "2024-12-29 20:38:04 +0000",
       "minecraft:flower_forest": "2024-12-29 20:26:24 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 20:35:29 +0000",
       "minecraft:meadow": "2024-12-29 20:10:55 +0000",
@@ -1252,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-29 20:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 20:04:42 +0000"
@@ -1279,6 +1312,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-29 19:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-29 20:43:26 +0000"
     },
     "done": true
   },
