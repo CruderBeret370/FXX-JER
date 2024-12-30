@@ -1,17 +1,17 @@
-[29Dec2024 16:16:00.366] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[29Dec2024 16:16:00.373] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[29Dec2024 16:16:01.054] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Dec2024 16:16:01.127] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/FXX-JER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Dec2024 16:16:01.654] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 16:16:01.657] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 16:16:01.659] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 16:16:01.661] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 16:16:01.897] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[29Dec2024 16:16:05.645] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Dec2024 16:16:05.674] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
-[29Dec2024 16:16:05.677] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
-[29Dec2024 16:16:05.727] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[29Dec2024 16:16:06.058] [main/INFO] [Puzzles Lib/]: Loading 24 mods:
+[30Dec2024 01:14:59.325] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[30Dec2024 01:14:59.374] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[30Dec2024 01:15:01.225] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Dec2024 01:15:01.831] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/FXX-JER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Dec2024 01:15:02.543] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:15:02.546] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:15:02.549] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:15:02.557] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:15:03.046] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[30Dec2024 01:15:08.036] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Dec2024 01:15:08.105] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
+[30Dec2024 01:15:08.121] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
+[30Dec2024 01:15:08.213] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[30Dec2024 01:15:09.168] [main/INFO] [Puzzles Lib/]: Loading 24 mods:
 	- antixray 1.4.6
 		\-- mixinextras 0.4.0
 	- appleskin 2.5.1+mc1.20.1
@@ -36,41 +36,41 @@
 	- sophisticatedcore 0.6.33.711
 	- xaerominimap 24.2.0
 	- xaeroworldmap 1.38.8
-[29Dec2024 16:16:06.604] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[29Dec2024 16:16:06.606] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[29Dec2024 16:16:07.916] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
-[29Dec2024 16:16:16.752] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[29Dec2024 16:16:17.324] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
-[29Dec2024 16:16:17.721] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Dec2024 16:16:17.830] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Dec2024 16:16:17.830] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Dec2024 16:16:20.010] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[29Dec2024 16:16:20.015] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[29Dec2024 16:16:20.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[29Dec2024 16:16:20.158] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[29Dec2024 16:16:20.160] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[29Dec2024 16:16:20.174] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[29Dec2024 16:16:20.176] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[29Dec2024 16:16:20.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
-[29Dec2024 16:16:20.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[29Dec2024 16:16:20.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[29Dec2024 16:16:20.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[29Dec2024 16:16:21.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[29Dec2024 16:16:21.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Dec2024 16:16:21.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.23 Target: 8.1.25
-[29Dec2024 16:16:21.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Dec2024 16:16:21.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[29Dec2024 16:16:21.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Dec2024 16:16:21.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[29Dec2024 16:16:24.586] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Dec2024 16:16:26.267] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
-[29Dec2024 16:16:26.267] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
-[29Dec2024 16:16:26.406] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
-[29Dec2024 16:16:29.603] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
-[29Dec2024 16:16:29.605] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[29Dec2024 16:16:29.606] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[29Dec2024 16:16:31.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[29Dec2024 16:16:31.948] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+[30Dec2024 01:15:10.209] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[30Dec2024 01:15:10.213] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[30Dec2024 01:15:12.747] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[30Dec2024 01:15:27.506] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[30Dec2024 01:15:28.095] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
+[30Dec2024 01:15:28.583] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[30Dec2024 01:15:28.750] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Dec2024 01:15:28.751] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Dec2024 01:15:31.456] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[30Dec2024 01:15:31.461] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[30Dec2024 01:15:31.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[30Dec2024 01:15:31.670] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[30Dec2024 01:15:31.674] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[30Dec2024 01:15:31.677] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[30Dec2024 01:15:31.687] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[30Dec2024 01:15:32.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
+[30Dec2024 01:15:32.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[30Dec2024 01:15:33.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[30Dec2024 01:15:33.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[30Dec2024 01:15:33.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[30Dec2024 01:15:33.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[30Dec2024 01:15:33.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.23 Target: 8.1.25
+[30Dec2024 01:15:33.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[30Dec2024 01:15:33.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[30Dec2024 01:15:33.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Dec2024 01:15:34.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[30Dec2024 01:15:37.984] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Dec2024 01:15:40.396] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
+[30Dec2024 01:15:40.397] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FXX-JER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
+[30Dec2024 01:15:40.708] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[30Dec2024 01:15:45.679] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
+[30Dec2024 01:15:45.684] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[30Dec2024 01:15:45.686] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[30Dec2024 01:15:49.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[30Dec2024 01:15:49.603] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -86,835 +86,84 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[29Dec2024 16:16:32.325] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1775 advancements
-[29Dec2024 16:16:32.398] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
-[29Dec2024 16:16:33.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Dec2024 16:16:33.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Dec2024 16:16:33.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Dec2024 16:16:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Dec2024 16:16:34.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Dec2024 16:16:34.119] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Dec2024 16:16:34.336] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Dec2024 16:16:34.338] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Dec2024 16:16:34.338] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Dec2024 16:16:34.339] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Dec2024 16:16:34.382] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[29Dec2024 16:16:34.384] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[29Dec2024 16:16:34.387] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[29Dec2024 16:16:34.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Dec2024 16:16:53.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Dec2024 16:17:04.170] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.187] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.190] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.229] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.234] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:04.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:05.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 16:17:06.437] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12517 ms
-[29Dec2024 16:17:06.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.077s)! For help, type "help"
-[29Dec2024 16:17:06.487] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Dec2024 16:18:35.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.16.110.60:54937] logged in with entity id 195 at (12.699999988079071, 69.0, 27.30000001192093)
-[29Dec2024 16:18:35.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 16:18:49.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 16:18:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 16:20:44.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e1b5ef0[id=<null>,name=salchipollazito,properties={},legacy=false] (/127.16.110.60:52337) lost connection: Disconnected
-[29Dec2024 16:23:05.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:58093] logged in with entity id 214 at (12.151770550735298, 122.0, 230.30225911735258)
-[29Dec2024 16:23:05.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
-[29Dec2024 16:23:19.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.16.110.60:41923] logged in with entity id 385 at (12.699999988079071, 69.0, 27.69999998807907)
-[29Dec2024 16:23:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 16:23:55.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro fell from a high place
-[29Dec2024 16:26:05.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Timed out
-[29Dec2024 16:26:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
-[29Dec2024 16:26:05.770] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29Dec2024 16:26:40.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:37537] logged in with entity id 1155 at (22.133378857786262, 94.0, 174.11632320948846)
-[29Dec2024 16:26:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
-[29Dec2024 16:28:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Acquire Hardware]
-[29Dec2024 16:33:09.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Isn't It Iron Pick]
-[29Dec2024 16:34:07.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Sweet Dreams]
-[29Dec2024 16:35:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Sweet Dreams]
-[29Dec2024 16:35:21.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/148, l='ServerLevel[world]', x=-153.67, y=102.98, z=107.93] died, message: 'Leatherworker was slain by Argonsito_Pro'
-[29Dec2024 16:35:24.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1753, l='ServerLevel[world]', x=-151.70, y=103.00, z=113.91] died, message: 'Farmer was slain by Argonsito_Pro'
-[29Dec2024 16:35:32.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/152, l='ServerLevel[world]', x=-135.54, y=104.00, z=103.51] died, message: 'Leatherworker was slain by Argonsito_Pro'
-[29Dec2024 16:35:38.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/154, l='ServerLevel[world]', x=-119.08, y=103.00, z=93.90] died, message: 'Leatherworker was slain by Argonsito_Pro'
-[29Dec2024 16:35:48.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/147, l='ServerLevel[world]', x=-146.38, y=104.94, z=122.02] died, message: 'Mason was slain by Argonsito_Pro'
-[29Dec2024 16:38:43.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> una minita
-[29Dec2024 16:39:00.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fa02c1[id=<null>,name=ANDY_SN,properties={},legacy=false] (/127.79.253.177:49647) lost connection: Disconnected
-[29Dec2024 16:41:08.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Not Today, Thank You]
-[29Dec2024 16:41:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Acquire Hardware]
-[29Dec2024 16:42:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro fell from a high place
-[29Dec2024 16:42:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Hot Stuff]
-[29Dec2024 16:47:43.603] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bcc180f[id=<null>,name=ANDY_SN,properties={},legacy=false] (/127.79.253.177:52763) lost connection: Disconnected
-[29Dec2024 16:47:43.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Isn't It Iron Pick]
-[29Dec2024 16:49:00.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro was slain by Slugger
-[29Dec2024 16:55:20.953] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3dd8e914[id=<null>,name=ANDY_SN,properties={},legacy=false] (/127.79.253.177:35905) lost connection: Disconnected
-[29Dec2024 16:56:15.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Diamonds!]
-[29Dec2024 16:56:45.431] [Thread-48/WARN] [SkinRestorer/]: failed to fetch skin
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[29Dec2024 16:56:45.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANDY_SN[/127.79.253.177:37179] logged in with entity id 8006 at (8.5, 70.0, 51.5)
-[29Dec2024 16:56:45.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
-[29Dec2024 16:57:03.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> oña e vuelto
-[29Dec2024 16:57:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Stone Age]
-[29Dec2024 16:58:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Getting an Upgrade]
-[29Dec2024 16:59:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> cords?
-[29Dec2024 17:00:07.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> veo un puente al lado de un arbol de cerezo
-[29Dec2024 17:02:10.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Crawler'/9559, l='ServerLevel[world]', x=124.77, y=-33.00, z=110.79] died: Crawler was slain by Argonsito_Pro
-[29Dec2024 17:03:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Suit Up]
-[29Dec2024 17:04:36.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Monster Hunter]
-[29Dec2024 17:04:44.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has reached the goal [Troll Hunter]
-[29Dec2024 17:07:49.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Acquire Hardware]
-[29Dec2024 17:08:45.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Suit Up]
-[29Dec2024 17:09:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Isn't It Iron Pick]
-[29Dec2024 17:09:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Diamonds!]
-[29Dec2024 17:09:48.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> alguien me da comida :(
-[29Dec2024 17:13:47.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANDY_SN lost connection: Disconnected
-[29Dec2024 17:13:47.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
-[29Dec2024 17:13:51.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> xd
-[29Dec2024 17:14:00.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Hot Stuff]
-[29Dec2024 17:15:11.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito was slain by Zombie
-[29Dec2024 17:16:16.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 17:16:16.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 17:16:22.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.16.110.60:34571] logged in with entity id 12915 at (104.69999998807907, 67.0, 144.2498300308929)
-[29Dec2024 17:16:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 17:16:34.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Cover Me with Diamonds]
-[29Dec2024 17:20:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> 60 -34 91
-[29Dec2024 17:26:19.435] [Thread-74/WARN] [SkinRestorer/]: failed to fetch skin
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[29Dec2024 17:26:19.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANDY_SN[/127.79.253.177:53243] logged in with entity id 14534 at (9.536649840066667, 54.0, 224.6865013108867)
-[29Dec2024 17:26:19.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
-[29Dec2024 17:26:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> oña
-[29Dec2024 17:26:44.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> retrocedi en el tiempo ._.
-[29Dec2024 17:27:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> tengo hambre pipipi
-[29Dec2024 17:28:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> es justo lo que iva a poner
-[29Dec2024 17:28:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Suit Up]
-[29Dec2024 17:30:05.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> niña chay dijiste que me querias
-[29Dec2024 17:30:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> es de noche?
-[29Dec2024 17:31:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> oe ustedes exploraron la mina que estava en el cerro de nieve?
-[29Dec2024 17:32:12.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=-35, z=47} BlockPos{x=-2, y=-35, z=47}
-[29Dec2024 17:32:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> hablo de esa mina que tiene carriles
-[29Dec2024 17:33:11.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> necesito una torta de jamon
-[29Dec2024 17:34:58.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> ayudaaaaaaaaaaaaa
-[29Dec2024 17:36:12.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 17:36:12.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 17:36:25.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:42477] logged in with entity id 16377 at (43.53214318752291, -35.4375, 81.09325646458772)
-[29Dec2024 17:36:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 17:38:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> estan debajo de mi
-[29Dec2024 17:39:27.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANDY_SN lost connection: Disconnected
-[29Dec2024 17:39:27.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
-[29Dec2024 17:42:25.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has reached the goal [Hunted]
-[29Dec2024 17:51:29.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Vampire Slayer]
-[29Dec2024 18:08:15.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Vampire Slayer]
-[29Dec2024 18:08:47.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 18:08:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 18:08:55.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:47229] logged in with entity id 20562 at (-10.738842404439433, -35.0, 42.265510497896585)
-[29Dec2024 18:08:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 18:12:26.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has reached the goal [Hunted]
-[29Dec2024 18:13:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has reached the goal [Troll Hunter]
-[29Dec2024 18:14:23.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Not Today, Thank You]
-[29Dec2024 18:21:00.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 18:21:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 18:21:16.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:35787] logged in with entity id 22419 at (-35.25354670046326, -12.0, -69.30000001192093)
-[29Dec2024 18:21:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 18:24:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro suffocated in a wall
-[29Dec2024 18:34:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro hit the ground too hard
-[29Dec2024 19:08:30.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro moved too quickly! 2.7936026660119637,-1.1767592750642422,-9.680362879499626
-[29Dec2024 19:09:07.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [Ice Bucket Challenge]
-[29Dec2024 19:11:07.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> Argonsito_Pro
-[29Dec2024 19:11:27.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro moved too quickly! 7.034007220290732,2.0724278036804407,-7.316016090265293
-[29Dec2024 19:11:45.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
-[29Dec2024 19:14:53.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -199 88 -4199
-[29Dec2024 19:16:32.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -199 88 -4199
-[29Dec2024 19:18:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ti
-[29Dec2024 19:18:54.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40358, l='ServerLevel[world]', x=-172.60, y=71.38, z=-4221.39] died, message: 'Villager hit the ground too hard'
-[29Dec2024 19:18:54.654] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40324, l='ServerLevel[world]', x=-172.95, y=71.38, z=-4220.67] died, message: 'Villager hit the ground too hard'
-[29Dec2024 19:19:19.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:22.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:26.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:19:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> CLIP FORZADO
-[29Dec2024 19:20:46.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -212 62 -756
-[29Dec2024 19:23:14.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44161, l='ServerLevel[world]', x=-229.58, y=68.94, z=-741.27] died, message: 'Villager was slain by salchipollazito'
-[29Dec2024 19:24:17.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/44157, l='ServerLevel[world]', x=-225.82, y=70.56, z=-736.60] died, message: 'Toolsmith was slain by salchipollazito'
-[29Dec2024 19:24:30.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44160, l='ServerLevel[world]', x=-235.46, y=69.00, z=-728.49] died, message: 'Villager was slain by salchipollazito'
-[29Dec2024 19:24:49.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ya me cayo :((((((((((
-[29Dec2024 19:25:45.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Ice Bucket Challenge]
-[29Dec2024 19:27:46.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44162, l='ServerLevel[world]', x=-232.46, y=70.00, z=-727.85] died, message: 'Villager was slain by salchipollazito'
-[29Dec2024 19:28:11.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44212, l='ServerLevel[world]', x=-215.48, y=64.87, z=-758.10] died, message: 'Villager was slain by salchipollazito'
-[29Dec2024 19:29:13.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ya me cayo :((((((((((
-[29Dec2024 19:29:29.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> A
-[29Dec2024 19:29:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 19:29:39.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ño porque mars me cayo
-[29Dec2024 19:31:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> :((((
-[29Dec2024 19:31:55.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> carajo mierda estoy comiendo
-[29Dec2024 19:32:08.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ola arturo
-[29Dec2024 19:32:18.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> no me importa
-[29Dec2024 19:32:22.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> come torta
-[29Dec2024 19:32:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> y no se de que hablas
-[29Dec2024 19:32:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> maldito down
-[29Dec2024 19:32:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> tonto
-[29Dec2024 19:41:20.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=40, z=-2999} BlockPos{x=-156, y=41, z=-2999}
-[29Dec2024 19:42:36.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8949ms or 178 ticks behind
-[29Dec2024 19:44:17.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 19:44:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 19:44:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 19:44:26.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:36081] logged in with entity id 57045 at (-156.31382370278078, 40.0, -2991.4316647767314)
-[29Dec2024 19:44:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 19:44:35.858] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44998df0[id=<null>,name=MarSS_JQ,properties={},legacy=false] (/127.14.134.218:44217) lost connection: Disconnected
-[29Dec2024 19:45:53.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e40d481[id=<null>,name=MarSS_JQ,properties={},legacy=false] (/127.14.134.218:34137) lost connection: Disconnected
-[29Dec2024 19:47:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 19:48:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> XD
-[29Dec2024 19:49:32.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:41531] logged in with entity id 58127 at (7.5, 75.0, 49.5)
-[29Dec2024 19:49:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
-[29Dec2024 19:49:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> Jorgito Quishpe?
-[29Dec2024 19:51:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 19:52:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ froze to death
-[29Dec2024 19:52:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
-[29Dec2024 19:53:00.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> 7 PALABRAS
-[29Dec2024 19:53:03.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Stone Age]
-[29Dec2024 19:53:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> E S E N C I A
-[29Dec2024 19:53:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Getting an Upgrade]
-[29Dec2024 19:59:18.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Monster Hunter]
-[29Dec2024 19:59:55.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EAAC2020[/127.138.117.92:38201] logged in with entity id 65648 at (5.5, 72.0, 54.5)
-[29Dec2024 19:59:55.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 joined the game
-[29Dec2024 20:00:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
-[29Dec2024 20:01:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Monster Hunter]
-[29Dec2024 20:01:17.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Acquire Hardware]
-[29Dec2024 20:01:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> -478 231
-[29Dec2024 20:02:54.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> wachese
-[29Dec2024 20:03:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> ?
-[29Dec2024 20:04:42.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Acquire Hardware]
-[29Dec2024 20:05:15.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Blindfolded]
-[29Dec2024 20:06:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Not Today, Thank You]
-[29Dec2024 20:07:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Stone Age]
-[29Dec2024 20:07:29.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=94, z=-4219} BlockPos{x=-234, y=93, z=-4219}
-[29Dec2024 20:07:34.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-228, y=92, z=-4213} BlockPos{x=-228, y=90, z=-4213}
-[29Dec2024 20:07:39.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Getting an Upgrade]
-[29Dec2024 20:07:47.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 20:07:47.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 20:07:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XDDDD
-[29Dec2024 20:07:59.614] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63633951[id=<null>,name=salchipollazito,properties={},legacy=false] (/127.72.233.4:38581) lost connection: Disconnected
-[29Dec2024 20:08:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] /kill argonsito_pro
-[29Dec2024 20:09:02.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> con /spawnpoint mars
-[29Dec2024 20:09:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ya estoy en -1000
-[29Dec2024 20:09:27.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Isn't It Iron Pick]
-[29Dec2024 20:09:38.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:51799] logged in with entity id 71986 at (-209.0218962335593, 88.0, -4201.665188946916)
-[29Dec2024 20:09:38.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 20:09:51.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ne
-[29Dec2024 20:10:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> olar
-[29Dec2024 20:10:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Ice Bucket Challenge]
-[29Dec2024 20:10:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> XD
-[29Dec2024 20:10:55.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> una aldea
-[29Dec2024 20:11:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> de nieve?
-[29Dec2024 20:11:16.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> de taiga
-[29Dec2024 20:11:39.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> aya
-[29Dec2024 20:11:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> xd
-[29Dec2024 20:11:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ya la saquearon
-[29Dec2024 20:11:44.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> XD
-[29Dec2024 20:12:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> silvestre?
-[29Dec2024 20:12:22.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> un pez plata
-[29Dec2024 20:12:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> creo
-[29Dec2024 20:12:57.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ya que pasa
-[29Dec2024 20:13:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Diamonds!]
-[29Dec2024 20:16:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> el zombie quiere tu culo mars
-[29Dec2024 20:17:21.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro was doomed to fall by salchipollazito
-[29Dec2024 20:17:25.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 20:17:51.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> ha muerto violado por un Big Creeper
-[29Dec2024 20:17:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 20:18:09.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XDDDDDDDDDDDDD
-[29Dec2024 20:18:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro fell from a high place
-[29Dec2024 20:19:19.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Vampire Slayer]
-[29Dec2024 20:20:10.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
-[29Dec2024 20:20:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
-[29Dec2024 20:25:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> ola emanuel
-[29Dec2024 20:25:35.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> adios
-[29Dec2024 20:25:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> -2600
-[29Dec2024 20:25:54.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:35979] logged in with entity id 83948 at (-170.5, 72.5625, -4187.5)
-[29Dec2024 20:25:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
-[29Dec2024 20:26:10.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> una piramide
-[29Dec2024 20:26:17.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> se
-[29Dec2024 20:26:48.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> pecause?
-[29Dec2024 20:27:33.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> no
-[29Dec2024 20:28:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ok
-[29Dec2024 20:28:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 20:28:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> eda bodma
-[29Dec2024 20:28:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> pmi
-[29Dec2024 20:28:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> pomi
-[29Dec2024 20:29:26.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[29Dec2024 20:31:14.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> yo tmb
-[29Dec2024 20:31:18.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> traje iron
-[29Dec2024 20:31:28.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> quien quiere
-[29Dec2024 20:31:31.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> pene
-[29Dec2024 20:31:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> hasta consegui un corazon
-[29Dec2024 20:31:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> XD
-[29Dec2024 20:32:28.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! 2.931568215739958,2.0013359791121417,-9.553169343307957
-[29Dec2024 20:32:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> calla mars analfabeto
-[29Dec2024 20:32:49.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> anal te doy
-[29Dec2024 20:34:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> en cada direccion 2k de bloques de hielo
-[29Dec2024 20:34:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
-[29Dec2024 20:35:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Suit Up]
-[29Dec2024 20:37:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> voy a minar
-[29Dec2024 20:37:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> si
-[29Dec2024 20:38:10.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Isn't It Iron Pick]
-[29Dec2024 20:39:43.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.39774079404588747,0.0,-10.392389129423464
-[29Dec2024 20:39:43.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.4130385168938062,0.0,-10.792096403632058
-[29Dec2024 20:39:44.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[29Dec2024 20:39:56.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.39774079404588747,0.0,-10.392389129423464
-[29Dec2024 20:39:56.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.4130385168938062,0.0,-10.792096403632058
-[29Dec2024 20:39:56.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.42833623974172497,0.0,-11.191803677840653
-[29Dec2024 20:39:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.4436339625896437,0.0,-11.591510952049248
-[29Dec2024 20:39:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MarSS_JQ) moved too quickly! -0.45893168543756246,0.0,-11.991218226257843
-[29Dec2024 20:40:06.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6560ms or 131 ticks behind
-[29Dec2024 20:40:39.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EAAC2020 moved too quickly! 0.018751172202485122,-10.408991223757717,1.0265062204580317
-[29Dec2024 20:40:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Not Today, Thank You]
-[29Dec2024 20:40:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> pasen coords
-[29Dec2024 20:40:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> me pedi
-[29Dec2024 20:41:00.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
-[29Dec2024 20:41:04.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
-[29Dec2024 20:41:04.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
-[29Dec2024 20:45:38.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40329, l='ServerLevel[world]', x=-162.87, y=70.00, z=-4192.49] died, message: 'Villager suffocated in a wall'
-[29Dec2024 20:46:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Diamonds!]
-[29Dec2024 20:51:23.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
-[29Dec2024 20:51:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
-[29Dec2024 20:53:17.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:44525] logged in with entity id 104426 at (1.6643406596651495, 80.67647087614428, -4429.674566746233)
-[29Dec2024 20:53:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
-[29Dec2024 20:53:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> ez
-[29Dec2024 21:03:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Cover Me with Diamonds]
-[29Dec2024 21:07:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has reached the goal [Hunted]
-[29Dec2024 21:10:55.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EAAC2020 lost connection: Disconnected
-[29Dec2024 21:10:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 left the game
-[29Dec2024 21:11:43.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EAAC2020[/127.138.117.92:42929] logged in with entity id 112421 at (158.69999998807907, -45.0, -4440.987631944149)
-[29Dec2024 21:11:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 joined the game
-[29Dec2024 21:12:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! 9.321851768918464,0.0,4.322624764417924
-[29Dec2024 21:13:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Cover Me with Diamonds]
-[29Dec2024 21:17:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito was impaled on a stalagmite
-[29Dec2024 21:20:48.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! 1.3335506192408957,-1.2712241076924755,10.116456924918566
-[29Dec2024 21:21:06.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
-[29Dec2024 21:21:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
-[29Dec2024 21:25:26.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:48335] logged in with entity id 118680 at (-273.4895558195756, -16.0, -4366.87273245791)
-[29Dec2024 21:25:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
-[29Dec2024 21:28:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Blindfolded]
-[29Dec2024 21:29:18.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Take Aim]
-[29Dec2024 21:29:29.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Vampire Slayer]
-[29Dec2024 21:30:00.523] [Thread-354/WARN] [SkinRestorer/]: failed to fetch skin
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdfdea10$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[29Dec2024 21:30:00.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANDY_SN[/127.79.253.177:54251] logged in with entity id 120789 at (30.408652604449397, 66.0, 57.463586131341245)
-[29Dec2024 21:30:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
-[29Dec2024 21:30:17.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/121072, l='ServerLevel[world]', x=130.26, y=-49.00, z=-4862.98] died: Intruder was blown up by Faller
-[29Dec2024 21:32:14.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:60921] logged in with entity id 122960 at (-241.41525826426468, 82.0, -4151.160010354176)
-[29Dec2024 21:32:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
-[29Dec2024 21:35:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN was slain by Cave Spider
-[29Dec2024 21:40:50.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Diamonds!]
-[29Dec2024 21:46:14.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/126747, l='ServerLevel[world]', x=162.37, y=133.00, z=350.50] died, message: 'Villager froze to death'
-[29Dec2024 21:47:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -1499
-[29Dec2024 21:47:09.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
-[29Dec2024 21:48:41.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=72, z=-4172} BlockPos{x=-1088, y=70, z=-4172}
-[29Dec2024 21:48:41.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1089, y=72, z=-4172} BlockPos{x=-1088, y=70, z=-4172}
-[29Dec2024 21:48:51.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> si puede romper un pico de oro con un bloque de oro
-[29Dec2024 21:51:23.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1260, y=70, z=-4402} BlockPos{x=-1260, y=68, z=-4403}
-[29Dec2024 21:51:31.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[29Dec2024 21:51:49.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
-[29Dec2024 21:52:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> eeeeee
-[29Dec2024 21:52:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> e e e e e e e
-[29Dec2024 21:52:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> e e e e e e e e e
-[29Dec2024 21:52:43.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> p e p e
-[29Dec2024 21:52:53.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved wrongly! 0.4118878170847893
-[29Dec2024 21:52:53.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved wrongly! 0.48336627021143386
-[29Dec2024 21:52:53.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved wrongly! 0.5853171152810432
-[29Dec2024 21:52:53.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved wrongly! 0.7146944199496943
-[29Dec2024 21:52:53.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved wrongly! 0.8685127343577506
-[29Dec2024 21:53:46.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[29Dec2024 21:55:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Best Friends Forever]
-[29Dec2024 21:55:06.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.276897690387614,0.0,-6.354472856104621
-[29Dec2024 21:55:06.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.555773046104377,0.0,-6.8077155444207165
-[29Dec2024 21:55:06.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.833551835646972,0.0,-7.261951515789406
-[29Dec2024 21:55:06.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.110743874492982,0.0,-7.716718973116258
-[29Dec2024 21:55:06.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.387621954739757,0.0,-8.171770817982178
-[29Dec2024 21:55:06.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.5160955664823974
-[29Dec2024 21:55:06.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.5160955664823974
-[29Dec2024 21:55:06.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.5160955664823974
-[29Dec2024 21:55:06.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.5160955664823974
-[29Dec2024 21:55:06.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.2433813879945292
-[29Dec2024 21:55:06.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.7970362138344254
-[29Dec2024 21:55:06.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.3942510363849112
-[29Dec2024 21:55:06.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.5160955664823974
-[29Dec2024 21:55:06.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.0431306669753533
-[29Dec2024 21:55:06.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.603162412094316
-[29Dec2024 21:55:06.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.2354988175848078
-[29Dec2024 21:55:07.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[29Dec2024 21:55:52.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[29Dec2024 21:56:09.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
-[29Dec2024 21:56:13.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.14941757320787,0.0,9.108893663795243
-[29Dec2024 21:56:19.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.2966105756413526
-[29Dec2024 21:56:19.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.6265044104484332
-[29Dec2024 21:56:19.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.8030240240805142
-[29Dec2024 21:56:27.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3270ms or 65 ticks behind
-[29Dec2024 21:56:42.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 2.3884709901088854,-0.2274534586630068,-9.79082431839106
-[29Dec2024 21:56:42.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 2.488522710001803,-0.4489423104376016,-10.074582487412044
-[29Dec2024 21:56:48.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6010ms or 120 ticks behind
-[29Dec2024 21:57:06.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 3.955672508957832,-9.431565778791565,-1.976383955374331
-[29Dec2024 21:57:06.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.184282108804041,-9.906592060890901,-2.028222281590388
-[29Dec2024 21:57:06.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.620342277718464,-9.906592060890901,-1.9881963707657633
-[29Dec2024 21:57:06.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 5.078093691333265,-9.906592060890901,-1.8619742293194577
-[29Dec2024 21:57:06.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 5.546066075468389,-9.906592060890901,-1.686712962106867
-[29Dec2024 21:57:06.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.017196732156663,-9.906592060890901,-1.4805529253262648
-[29Dec2024 21:57:06.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.487000636776884,-9.906592060890901,-1.2521214884845904
-[29Dec2024 21:57:06.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.953895248279991,-9.906592060890901,-1.0078063884175208
-[29Dec2024 21:57:06.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.4156330511312945,-9.906592060890901,-0.7488450172641024
-[29Dec2024 21:57:06.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.869408529360612,-9.906592060890901,-0.4738180424019447
-[29Dec2024 21:57:06.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[29Dec2024 21:57:12.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.68724085421843,0.0,5.195664331066837
-[29Dec2024 21:57:12.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.144465501527975,0.0,5.469118728122339
-[29Dec2024 21:57:12.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.60169014887856,1.0,5.742573125132367
-[29Dec2024 21:57:12.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.058914796251202,1.0,6.016027522116929
-[29Dec2024 21:57:12.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.498128840629988,1.0,6.315631259044494
-[29Dec2024 21:57:12.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.91017399135228,1.0,6.649178883579225
-[29Dec2024 21:57:12.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 11.302609364538057,2.0,7.005925116913204
-[29Dec2024 21:57:12.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.650338592742628
-[29Dec2024 21:57:29.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [Sweet Dreams]
-[29Dec2024 21:57:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Sweet Dreams]
-[29Dec2024 21:57:40.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.244235558338005,-1.0,-6.937198249467656
-[29Dec2024 21:57:40.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.6711025922001,-1.0,-7.241513880889215
-[29Dec2024 21:57:40.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.101208293764785,-1.0,-7.548112287821823
-[29Dec2024 21:57:40.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.5330469418451,-1.0,-7.8559321624161385
-[29Dec2024 21:57:40.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.965812855054764,-1.0,-8.16440562000298
-[29Dec2024 21:57:41.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 3.06461988500006
-[29Dec2024 21:57:41.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 3.06461988500006
-[29Dec2024 21:57:41.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 3.06461988500006
-[29Dec2024 21:57:41.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 3.06461988500006
-[29Dec2024 21:57:41.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 3.06461988500006
-[29Dec2024 21:57:41.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.7607587695469817
-[29Dec2024 21:57:41.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.2504945770754055
-[29Dec2024 21:57:41.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.7495303662853978
-[29Dec2024 21:57:52.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
-[29Dec2024 21:58:12.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.269104027715457,-1.0,4.047145008470579
-[29Dec2024 21:58:12.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.758330518248954,-1.0,4.28374112176607
-[29Dec2024 21:58:22.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -1.7177595600570328,1.0,-9.815916789755647
-[29Dec2024 21:58:22.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -1.616354557744586,1.0,-10.346626218147321
-[29Dec2024 21:58:56.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.735973855601685,-2.0768320014953616,-5.075360941647887
-[29Dec2024 21:59:00.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[29Dec2024 21:59:08.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.07150032026314,0.0,0.9997001343426746
-[29Dec2024 21:59:08.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.602219045651424,0.0,1.0462760247473852
-[29Dec2024 21:59:08.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 11.132937844498628,0.0,1.0928511804686423
-[29Dec2024 21:59:08.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 11.663656682652203,-0.07683200149536162,1.1394259430753664
-[29Dec2024 21:59:08.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 11.972307931675317,-0.2274534586630068,1.16651250258019
-[29Dec2024 21:59:08.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.2339892270710777
-[29Dec2024 21:59:08.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.2339892270710777
-[29Dec2024 21:59:08.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.2339892270710777
-[29Dec2024 21:59:08.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.2339892270710777
-[29Dec2024 21:59:08.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.2339892270710777
-[29Dec2024 21:59:08.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.9487745977529869
-[29Dec2024 21:59:09.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.44767839371490936
-[29Dec2024 21:59:14.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 5.626829999221343,1.0,-8.28396192009859
-[29Dec2024 21:59:14.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 5.9973515890469855,1.0,-8.666639038680842
-[29Dec2024 21:59:14.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.364900447214353,1.0,-9.052209082754416
-[29Dec2024 21:59:14.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.726547646221462,1.0,-9.443269114429313
-[29Dec2024 21:59:17.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
-[29Dec2024 21:59:28.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.28841668149002,2.0,7.878579484743568
-[29Dec2024 21:59:28.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.624297865292782,2.0,8.29211954537368
-[29Dec2024 21:59:28.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.96017918865018,2.0,8.705659574125093
-[29Dec2024 21:59:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> q rico
-[29Dec2024 21:59:41.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.153692748039603,2.0,5.97322319056093
-[29Dec2024 21:59:41.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.63685297096414,2.0,6.1923104352308656
-[29Dec2024 21:59:41.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.125811065180674,2.0,6.400385627979631
-[29Dec2024 21:59:41.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.617871484728472,3.0,6.602568491302009
-[29Dec2024 21:59:41.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.6588320648479566
-[29Dec2024 21:59:41.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.8585780601042643
-[29Dec2024 21:59:42.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[29Dec2024 22:00:42.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.5299509174179673
-[29Dec2024 22:00:42.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.5299509174179673
-[29Dec2024 22:00:42.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[29Dec2024 22:00:44.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.41382346990673113
-[29Dec2024 22:00:44.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.8618721077572786
-[29Dec2024 22:00:45.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.346196381226605
-[29Dec2024 22:00:45.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.8499310240574118
-[29Dec2024 22:00:56.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.387008047654064,5.938448780967136,0.20189004284475232
-[29Dec2024 22:00:56.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.718932752856745,5.9139064752931745,0.06434618087951094
-[29Dec2024 22:00:56.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.037556382303734,5.813504042969797,-0.06842228817276919
-[29Dec2024 22:00:56.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.344318112049962,5.640245543594347,-0.1969320617035919
-[29Dec2024 22:01:21.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[29Dec2024 22:01:39.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
-[29Dec2024 22:01:39.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 1.8657453085164093,-3.0,9.8183174873584
-[29Dec2024 22:01:39.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! -1.4579327646266336,0.0,-9.993861366083593
-[29Dec2024 22:01:39.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.34918412094793894
-[29Dec2024 22:01:58.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
-[29Dec2024 22:02:01.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 3.321498195457565,0.0,-9.809257605446192
-[29Dec2024 22:02:01.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 3.4789236498085074,0.0,-10.175878098868452
-[29Dec2024 22:02:01.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 3.6316073074200688,0.0,-10.54429408804117
-[29Dec2024 22:02:01.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 3.7782201390054126,0.0,-10.91479667279782
-[29Dec2024 22:02:01.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 3.9177268986248635,0.0,-11.287528995044568
-[29Dec2024 22:02:01.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.04935317372221,0.0,-11.66252480190974
-[29Dec2024 22:02:01.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.172541925163415,0.0,-12.039740954654462
-[29Dec2024 22:02:01.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.286920100673768,0.0,-12.419081333449867
-[29Dec2024 22:02:01.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.392271178802531,0.0,-12.80041495421142
-[29Dec2024 22:02:01.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.487808078580429,0.0,-13.183608706004634
-[29Dec2024 22:02:01.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -6.394949566090702,0.0,7.7529816932510585
-[29Dec2024 22:02:01.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.572296003354978,0.0,-13.568455114284689
-[29Dec2024 22:02:01.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -6.908106487013015,0.0,7.7529816932510585
-[29Dec2024 22:02:01.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 4.644155012402166,0.0,-13.954597854400163
-[29Dec2024 22:02:01.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.6114182285453467
-[29Dec2024 22:02:01.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.6114182285453467
-[29Dec2024 22:02:01.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.3209200502291196
-[29Dec2024 22:02:01.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.8579341421236677
-[29Dec2024 22:02:01.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.4976248601943212
-[29Dec2024 22:02:11.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.859081926430974,1.0,5.095489658980114
-[29Dec2024 22:02:11.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.902689219716308,1.0,5.614899691306164
-[29Dec2024 22:02:11.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.880592069579961,1.0,6.136313710803734
-[29Dec2024 22:02:11.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.823337781773944,1.0,6.658800023881668
-[29Dec2024 22:02:11.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.747271610558585,1.0,7.181860099875848
-[29Dec2024 22:02:11.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.661139575599407,1.0,7.705227184966134
-[29Dec2024 22:02:11.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.569621497642572,1.0,8.228758544502853
-[29Dec2024 22:02:11.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.470142726375457,1.0,8.751375171863401
-[29Dec2024 22:02:11.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.339488398464255,1.0,9.266294858059155
-[29Dec2024 22:02:11.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 8.15227342386521,1.0,9.759969528149668
-[29Dec2024 22:02:11.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.901590718459772,1.0,10.220842588029882
-[29Dec2024 22:02:11.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.530895489550403,1.0,10.55643774901182
-[29Dec2024 22:02:11.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.092677132553661,1.0,10.815657097929943
-[29Dec2024 22:02:11.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.055587346513221,1.0,11.03085191045193
-[29Dec2024 22:02:11.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.055587346513221,0.9231679985046384,11.318621952916146
-[29Dec2024 22:02:11.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.055587346513221,0.7725465413369932,11.48986432476704
-[29Dec2024 22:02:11.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.055587346513221,0.5510576895623984,11.659840636028093
-[29Dec2024 22:02:11.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.0375994149871985,0.26150779068264285,11.828453083422573
-[29Dec2024 22:02:11.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 7.003130385590623,0.0,11.995372651190337
-[29Dec2024 22:02:11.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 6.774139716879404,0.0,12.29271331275504
-[29Dec2024 22:02:11.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 6.38729815406096
-[29Dec2024 22:02:11.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.637093618788526,1.0,-9.900437119910748
-[29Dec2024 22:02:11.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.429551404883227,1.0,-9.628946523343984
-[29Dec2024 22:02:11.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 4.1149447073582905,1.0,-9.342554180797379
-[29Dec2024 22:02:11.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 5.3737169995556675
-[29Dec2024 22:02:11.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 4.944806204278393
-[29Dec2024 22:02:11.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 4.494857427626812
-[29Dec2024 22:02:11.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 4.03115174348568
-[29Dec2024 22:02:12.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.5651120287180391
-[29Dec2024 22:02:12.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.5651120287180391
-[29Dec2024 22:02:12.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.4336752624514664
-[29Dec2024 22:02:22.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -9.118465692731036,1.0,4.587687584488776
-[29Dec2024 22:02:22.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -9.449907566795446,1.0,5.016625505900265
-[29Dec2024 22:02:22.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -9.77971582551595,1.0,5.44772504741195
-[29Dec2024 22:02:22.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -10.178174841745033,1.0,5.788274788759736
-[29Dec2024 22:02:22.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -10.613367509568548,1.0,6.080373137408969
-[29Dec2024 22:02:22.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -11.06821562197024,1.0,6.346546111841235
-[29Dec2024 22:02:22.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -11.533580970878461,1.0,6.5988469354260815
-[29Dec2024 22:02:22.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -12.00457388335019,1.0,6.843725047673615
-[29Dec2024 22:02:22.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -12.478577992883288,1.0,7.0846314150767284
-[29Dec2024 22:02:22.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -12.954193333927094,1.0,7.323412581002231
-[29Dec2024 22:02:22.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -13.430670812827827,1.0,7.561056593988724
-[29Dec2024 22:02:22.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -13.907609604506604,1.0,7.79809213910994
-[29Dec2024 22:02:22.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -14.384795235455329,1.0,8.034802105208655
-[29Dec2024 22:02:22.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.8072552033621037
-[29Dec2024 22:02:22.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.3297921506982675
-[29Dec2024 22:02:22.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.8523259981490696
-[29Dec2024 22:02:22.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.374858186913002
-[29Dec2024 22:02:22.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.8973894881467004
-[29Dec2024 22:02:22.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.3891625855563916
-[29Dec2024 22:02:29.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15902ms or 318 ticks behind
-[29Dec2024 22:02:42.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -0.48377499710181837,0.0,-10.011142800038215
-[29Dec2024 22:02:42.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -0.8021706951531655,0.0,-10.43687025129475
-[29Dec2024 22:02:42.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -1.0202045888511861,0.0,-10.912877926879446
-[29Dec2024 22:03:03.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[29Dec2024 22:03:05.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Take Aim]
-[29Dec2024 22:04:33.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[29Dec2024 22:06:03.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[29Dec2024 22:06:12.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.256177840065803,1.0,9.574679756747628
-[29Dec2024 22:06:12.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.4145234411276846,1.0,10.08336210189691
-[29Dec2024 22:06:12.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.5728314347896273,1.0,10.592056441303157
-[29Dec2024 22:06:20.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
-[29Dec2024 22:07:39.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[29Dec2024 22:07:50.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 3.2425109452990455,2.0,-9.587451587522537
-[29Dec2024 22:07:50.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 3.462707200506088,2.0,-10.071432362904488
-[29Dec2024 22:07:58.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
-[29Dec2024 22:08:11.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.2345774284880804,1.0,-9.67066830597787
-[29Dec2024 22:08:11.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.3803121799267046,1.0,-10.183105767750021
-[29Dec2024 22:08:11.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.5260459892633094,1.0,-10.695543912063386
-[29Dec2024 22:08:11.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.6717792944998564,1.0,-11.207982421590714
-[29Dec2024 22:08:11.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.8175123300025575,1.0,-11.720421126536621
-[29Dec2024 22:08:11.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! -3.9632452211760096,1.0,-12.23285993604759
-[29Dec2024 22:08:15.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[29Dec2024 22:08:23.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 1.3407456590301763,0.0,-10.046912378968045
-[29Dec2024 22:08:23.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 1.671540536866928,0.0,-10.471515598344013
-[29Dec2024 22:08:23.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 2.0082446529860363,0.0,-10.894608134289228
-[29Dec2024 22:08:23.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 2.2393592121241,0.0,-11.36338954506391
-[29Dec2024 22:08:33.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
-[29Dec2024 22:08:54.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
-[29Dec2024 22:09:18.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.3252470562410963
-[29Dec2024 22:09:18.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.8177061740661884
-[29Dec2024 22:09:18.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.3139587933046641
-[29Dec2024 22:09:26.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.308195484540533,1.0,3.807775088298513
-[29Dec2024 22:09:26.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 9.797619487611371,2.0,4.018240325588522
-[29Dec2024 22:09:26.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.287043477015573,2.0,4.228705848586287
-[29Dec2024 22:09:26.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved too quickly! 10.776467459107039,2.0,4.439171524460107
-[29Dec2024 22:10:13.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.2759872263696366
-[29Dec2024 22:10:13.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.7325509000378929
-[29Dec2024 22:10:13.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.1561145046447336
-[29Dec2024 22:10:13.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.3093816367736508
-[29Dec2024 22:10:13.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.749652435216376
-[29Dec2024 22:10:33.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.27895711083777996
-[29Dec2024 22:10:33.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.7496110568570202
-[29Dec2024 22:10:44.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.46905644483649667
-[29Dec2024 22:10:44.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.9897794463540777
-[29Dec2024 22:10:44.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.5146688861368602
-[29Dec2024 22:10:44.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.0401725645861006
-[29Dec2024 22:10:44.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.559035455257799
-[29Dec2024 22:10:44.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.441356291618831
-[29Dec2024 22:10:44.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.441356291618831
-[29Dec2024 22:10:44.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.441356291618831
-[29Dec2024 22:10:44.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.441356291618831
-[29Dec2024 22:10:44.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.441356291618831
-[29Dec2024 22:10:44.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.2545905165416116
-[29Dec2024 22:10:44.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 2.088032793527418
-[29Dec2024 22:10:44.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.9989110767455713
-[29Dec2024 22:11:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> oro
-[29Dec2024 22:13:30.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN was doomed to fall by Argonsito_Pro
-[29Dec2024 22:13:32.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XDDDDDDDDD
-[29Dec2024 22:14:49.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.25089014040713664
-[29Dec2024 22:14:50.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.7014206342510079
-[29Dec2024 22:14:50.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 1.1665011280165345
-[29Dec2024 22:15:00.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.32323121090212226
-[29Dec2024 22:15:00.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.699490368527569
-[29Dec2024 22:17:29.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of salchipollazito) moved wrongly! 0.2503666705256933
-[29Dec2024 22:18:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Best Friends Forever]
-[29Dec2024 22:19:45.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved wrongly! 0.35594872911951825
-[29Dec2024 22:19:45.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved wrongly! 0.852650088540031
-[29Dec2024 22:19:45.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved wrongly! 1.3384896731131448
-[29Dec2024 22:19:45.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved wrongly! 1.7895818237038839
-[29Dec2024 22:20:03.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -4.749876821541221,-1.0,-9.222974942641486
-[29Dec2024 22:20:03.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -4.605848718328474,-1.0768320014953616,-9.71283288180166
-[29Dec2024 22:20:03.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -4.5092101490701,-1.2274534586630068,-9.989423908934441
-[29Dec2024 22:20:03.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -4.399372914957695,-1.4489423104376016,-10.241842217307749
-[29Dec2024 22:20:03.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -4.277392225370363,-1.7384922093173572,-10.47086462866082
-[29Dec2024 22:20:03.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -4.144586523394992,-2.0,-10.679050219412602
-[29Dec2024 22:20:03.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -3.785917199899586,-2.0,-10.90414411821439
-[29Dec2024 22:20:03.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -3.3537672009315713,-2.0,-11.064021359193248
-[29Dec2024 22:20:03.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -2.8822991575647734,-2.0768320014953616,-11.18900246685098
-[29Dec2024 22:20:03.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -2.606002687751584,-2.227453458663007,-11.259820764124925
-[29Dec2024 22:20:03.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -2.335578169004634,-2.4489423104376016,-11.326919921874833
-[29Dec2024 22:20:03.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -2.0703902563694783,-2.738492209317357,-11.390702350901847
-[29Dec2024 22:20:03.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -1.8096841475999383,-3.0,-11.450127630399038
-[29Dec2024 22:20:03.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -1.337487824659803,-3.0,-11.460560193363563
-[29Dec2024 22:20:03.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -0.8754030394530332,-3.0,-11.3420075503318
-[29Dec2024 22:20:03.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 9.507762283245171,-2.0,3.409150878010223
-[29Dec2024 22:20:03.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 9.830369322991658,-2.0,3.821532441645104
-[29Dec2024 22:20:03.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 10.15136455729251,-2.0,4.235197348345537
-[29Dec2024 22:20:03.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 10.459807963923907,-2.0,4.657996317515426
-[29Dec2024 22:20:03.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 10.723526487570751,-2.0,5.1067808834750394
-[29Dec2024 22:20:03.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 10.944781581723817,-1.0,5.576794506865554
-[29Dec2024 22:20:03.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 11.12564607890576,-1.0,6.063584692250515
-[29Dec2024 22:20:03.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 11.284605062055306,-1.0768320014953616,6.559429371455735
-[29Dec2024 22:20:03.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 11.375879044407327,-1.2274534586630068,6.848283269230706
-[29Dec2024 22:20:03.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 11.463495383983627,-1.4489423104376016,7.129420478699103
-[29Dec2024 22:20:03.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 11.547849837638552,-1.7384922093173572,7.403675945336545
-[29Dec2024 22:20:03.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! 11.629295341344971,-2.0,7.671794273541309
-[29Dec2024 22:20:04.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.898429308738002,2.0,-8.635533381963796
-[29Dec2024 22:20:04.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.764522509149145,2.0,-8.12934232513362
-[29Dec2024 22:20:04.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MarSS_JQ) moved too quickly! -11.630531705390382,1.9231679985046384,-7.623158417083687
-[29Dec2024 22:21:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Sweet Dreams]
-[29Dec2024 22:22:59.020] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.198.191:50139 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[29Dec2024 22:23:11.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.198.191:35657 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[29Dec2024 22:23:13.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EAAC2020 lost connection: Disconnected
-[29Dec2024 22:23:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 left the game
-[29Dec2024 22:23:13.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ was kicked for floating too long!
-[29Dec2024 22:23:13.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Flying is not enabled on this server
-[29Dec2024 22:23:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
-[29Dec2024 22:23:16.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 22:23:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 22:23:19.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
-[29Dec2024 22:23:19.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
-[29Dec2024 22:23:27.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:34157] logged in with entity id 177131 at (-194.30000001192093, 93.5625, -4211.976825569707)
-[29Dec2024 22:23:27.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 22:23:31.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-10.399997287991027
-[29Dec2024 22:23:31.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-10.79999718368299
-[29Dec2024 22:23:31.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-11.199997079374953
-[29Dec2024 22:23:31.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-11.599996975066915
-[29Dec2024 22:23:31.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-11.999996870758878
-[29Dec2024 22:23:31.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-12.39999676645084
-[29Dec2024 22:23:31.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-12.799996662142803
-[29Dec2024 22:23:31.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-13.199996557834766
-[29Dec2024 22:23:31.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-13.599996453526728
-[29Dec2024 22:23:31.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-13.99999634921869
-[29Dec2024 22:23:31.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-14.399996244910653
-[29Dec2024 22:23:31.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-14.799996140602616
-[29Dec2024 22:23:31.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-15.199996036294579
-[29Dec2024 22:23:31.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-15.599995931986541
-[29Dec2024 22:23:31.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-15.999995827678504
-[29Dec2024 22:23:31.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-16.399995723370466
-[29Dec2024 22:23:31.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-16.79999561906243
-[29Dec2024 22:23:31.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-17.19999551475439
-[29Dec2024 22:23:31.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-17.599995410446354
-[29Dec2024 22:23:31.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-17.999995306138317
-[29Dec2024 22:23:31.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-18.39999520183028
-[29Dec2024 22:23:31.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-18.799995097522242
-[29Dec2024 22:23:31.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-19.199994993214204
-[29Dec2024 22:23:31.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-19.599994888906167
-[29Dec2024 22:23:31.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-19.99999478459813
-[29Dec2024 22:23:31.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-20.399994680290092
-[29Dec2024 22:23:31.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-20.799994575982055
-[29Dec2024 22:23:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-21.199994471674017
-[29Dec2024 22:23:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-21.59999436736598
-[29Dec2024 22:23:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-21.999994263057943
-[29Dec2024 22:23:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-22.399994158749905
-[29Dec2024 22:23:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-22.799994054441868
-[29Dec2024 22:23:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-23.19999395013383
-[29Dec2024 22:23:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-23.599993845825793
-[29Dec2024 22:23:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-23.999993741517756
-[29Dec2024 22:23:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-24.399993637209718
-[29Dec2024 22:23:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-24.79999353290168
-[29Dec2024 22:23:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-25.199993428593643
-[29Dec2024 22:23:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-25.599993324285606
-[29Dec2024 22:23:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-25.99999321997757
-[29Dec2024 22:23:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-26.39999311566953
-[29Dec2024 22:23:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-26.799993011361494
-[29Dec2024 22:23:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-27.199992907053456
-[29Dec2024 22:23:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-27.59999280274542
-[29Dec2024 22:23:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-27.99999269843738
-[29Dec2024 22:23:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-28.399992594129344
-[29Dec2024 22:23:31.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-28.799992489821307
-[29Dec2024 22:23:31.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
-[29Dec2024 22:23:31.763] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.198.191:47167 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[29Dec2024 22:23:31.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-19.199994993214204
-[29Dec2024 22:23:31.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-19.599994888906167
-[29Dec2024 22:23:31.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-19.99999478459813
-[29Dec2024 22:23:31.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-20.399994680290092
-[29Dec2024 22:23:31.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-20.799994575982055
-[29Dec2024 22:23:31.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-21.199994471674017
-[29Dec2024 22:23:31.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-21.59999436736598
-[29Dec2024 22:23:31.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-21.999994263057943
-[29Dec2024 22:23:31.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-22.399994158749905
-[29Dec2024 22:23:31.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-22.799994054441868
-[29Dec2024 22:23:31.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-23.19999395013383
-[29Dec2024 22:23:31.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-23.599993845825793
-[29Dec2024 22:23:31.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANDY_SN) moved too quickly! 0.0,0.0,-23.999993741517756
-[29Dec2024 22:23:33.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:40981] logged in with entity id 177319 at (-195.30318528676273, 93.5625, -4209.2740478761)
-[29Dec2024 22:23:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
-[29Dec2024 22:23:34.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.14.134.218:41795] logged in with entity id 177335 at (-196.01155482571482, 97.24918707874468, -4211.515475390268)
-[29Dec2024 22:23:34.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
-[29Dec2024 22:24:02.247] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.198.191:58623 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[29Dec2024 22:25:47.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Argonsito_Pro) moved wrongly! 0.32144653809609736
-[29Dec2024 22:25:47.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Argonsito_Pro) moved wrongly! 0.7490659904888162
-[29Dec2024 22:26:23.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ moved too quickly! -8.368651517361627,-3.810296659746271,-4.321477920343568
-[29Dec2024 22:27:18.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN fell from a high place
-[29Dec2024 22:28:13.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 22:28:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 22:30:52.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> ha muerto de hambre
-[29Dec2024 22:31:13.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
-[29Dec2024 22:31:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
-[29Dec2024 22:31:30.106] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.198.191:51709 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[29Dec2024 22:33:14.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
-[29Dec2024 22:33:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
-[29Dec2024 22:33:32.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:44781] logged in with entity id 181163 at (-194.8365426016554, 93.5625, -4211.717964643418)
-[29Dec2024 22:33:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
-[29Dec2024 22:34:03.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
-[29Dec2024 22:34:03.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
-[29Dec2024 22:34:32.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANDY_SN lost connection: Disconnected
-[29Dec2024 22:34:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
-[29Dec2024 22:34:42.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[29Dec2024 22:34:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Dec2024 22:34:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Dec2024 22:34:42.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Dec2024 22:34:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Dec2024 22:34:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[29Dec2024 22:34:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Dec2024 22:34:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Dec2024 22:34:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dec2024 01:15:50.312] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1775 advancements
+[30Dec2024 01:15:50.367] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
+[30Dec2024 01:15:52.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Dec2024 01:15:52.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Dec2024 01:15:52.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Dec2024 01:15:52.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Dec2024 01:15:52.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Dec2024 01:15:52.666] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Dec2024 01:15:52.931] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Dec2024 01:15:52.931] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Dec2024 01:15:52.931] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Dec2024 01:15:52.932] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Dec2024 01:15:53.024] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[30Dec2024 01:15:53.032] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[30Dec2024 01:15:53.033] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[30Dec2024 01:15:53.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Dec2024 01:16:05.241] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[30Dec2024 01:16:23.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Dec2024 01:16:25.496] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[30Dec2024 01:16:34.701] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[30Dec2024 01:16:38.403] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:38.827] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:38.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:39.154] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:39.329] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:39.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:39.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:39.871] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:39.996] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.235] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.429] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.828] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.865] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.907] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:40.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.132] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.133] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.159] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.163] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.164] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:41.545] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:42.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:42.545] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:43.056] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:43.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:16:45.043] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 21999 ms
+[30Dec2024 01:16:45.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (52.064s)! For help, type "help"
+[30Dec2024 01:16:45.157] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dec2024 01:17:03.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:60339] logged in with entity id 39 at (-241.67820581575515, 114.0, -4207.854103928786)
+[30Dec2024 01:17:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[30Dec2024 01:17:11.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7631ms or 152 ticks behind
+[30Dec2024 01:17:40.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EAAC2020[/127.138.117.92:49623] logged in with entity id 391 at (-194.30000001192093, 93.5625, -4208.455898841233)
+[30Dec2024 01:17:40.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 joined the game
+[30Dec2024 01:18:57.925] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmonsters:1,enemyexpansion:enemyexpansion] rejected their client side version number
+[30Dec2024 01:18:57.926] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[30Dec2024 01:18:57.943] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@499a456e[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:49211) lost connection: Connection closed - mismatched mod channel list
+[30Dec2024 01:20:32.088] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61b4000b[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:47619) lost connection: Disconnected
+[30Dec2024 01:21:02.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ??
+[30Dec2024 01:21:18.537] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@757059f6[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:36453) lost connection: Disconnected
+[30Dec2024 01:21:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> XD
+[30Dec2024 01:22:41.689] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71f22e5d[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:46261) lost connection: Disconnected
+[30Dec2024 01:22:44.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d3dd9fb[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:43731) lost connection: Disconnected
+[30Dec2024 01:22:46.591] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73f9d76e[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:49609) lost connection: Disconnected
+[30Dec2024 01:23:51.896] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31baa1a7[id=<null>,name=AseyRed,properties={},legacy=false] (/127.32.6.50:56031) lost connection: Disconnected
