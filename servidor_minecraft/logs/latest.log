@@ -208,3 +208,10 @@ java.lang.IllegalStateException: not found
 [30Dec2024 01:31:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
 [30Dec2024 01:34:35.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> XD
 [30Dec2024 01:34:35.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro moved too quickly! 9.90123606214533,-2.477043784505355,0.07717179249993933
+[30Dec2024 01:35:30.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed was blown up by Creeper
+[30Dec2024 01:37:05.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Timed out
+[30Dec2024 01:37:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
+[30Dec2024 01:37:05.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 01:37:22.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:50683] logged in with entity id 7337 at (-160.475013929127, 71.16610926093821, -4191.275593243256)
+[30Dec2024 01:37:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[30Dec2024 01:42:29.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro has made the advancement [A Seedy Place]
