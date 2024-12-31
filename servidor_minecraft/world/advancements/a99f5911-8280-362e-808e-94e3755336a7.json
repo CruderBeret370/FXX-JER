@@ -2141,6 +2141,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-31 02:48:01 +0000",
       "minecraft:soul_sand_valley": "2024-12-31 02:39:12 +0000"
     },
     "done": false
@@ -2160,6 +2161,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-31 02:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-31 02:39:50 +0000"
     },
     "done": true
   },
