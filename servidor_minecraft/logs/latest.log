@@ -176,3 +176,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 03:01:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 fell from a high place
 [31Dec2024 03:02:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 was shot by Skeleton
 [31Dec2024 03:07:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 was slain by Piglin Brute
+[31Dec2024 03:15:21.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.45.135.112:34027] logged in with entity id 9015 at (-242.69403448672998, 112.0, -4205.639820980935)
+[31Dec2024 03:15:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[31Dec2024 03:15:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> pe
+[31Dec2024 03:15:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ne
+[31Dec2024 03:15:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> comes
+[31Dec2024 03:15:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> fake
+[31Dec2024 03:15:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> xddd
+[31Dec2024 03:16:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> de q me perdi??
+[31Dec2024 03:16:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> me mori 30 veces por piglin bruto
+[31Dec2024 03:16:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
+[31Dec2024 03:16:26.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> los demas?
+[31Dec2024 03:16:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> ni idea
+[31Dec2024 03:16:36.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> aya
+[31Dec2024 03:16:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> igual no encontre molde pipipi
+[31Dec2024 03:16:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> y ya me void
+[31Dec2024 03:16:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> pipi
+[31Dec2024 03:16:52.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
+[31Dec2024 03:16:55.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> weno
+[31Dec2024 03:17:11.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EAAC2020> chau
+[31Dec2024 03:17:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> chau
+[31Dec2024 03:17:17.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EAAC2020 lost connection: Disconnected
+[31Dec2024 03:17:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 left the game
+[31Dec2024 03:17:20.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
+[31Dec2024 03:17:20.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
