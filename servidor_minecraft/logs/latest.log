@@ -169,3 +169,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:35:16.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 12 players online: EAAC2020
 [31Dec2024 02:39:06.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [We Need to Go Deeper]
 [31Dec2024 02:39:12.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8770ms or 175 ticks behind
+[31Dec2024 02:52:53.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Those Were the Days]
+[31Dec2024 02:54:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [War Pigs]
+[31Dec2024 02:54:34.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 has made the advancement [Hidden in the Depths]
+[31Dec2024 02:59:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 was slain by Piglin Brute
+[31Dec2024 03:01:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 fell from a high place
+[31Dec2024 03:02:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 was shot by Skeleton
+[31Dec2024 03:07:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EAAC2020 was slain by Piglin Brute
