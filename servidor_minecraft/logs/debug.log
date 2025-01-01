@@ -2124,3 +2124,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:35:18.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
 [01Jan2025 21:37:39.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 21:37:39.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:40:41.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
+[01Jan2025 21:40:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
+[01Jan2025 21:42:39.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:42:39.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:45:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro was blown up by Intruder
+[01Jan2025 21:47:39.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:47:39.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:47:50.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Sneak 100]
+[01Jan2025 21:47:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD

@@ -172,3 +172,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:28:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has reached the goal [Who built this?]
 [01Jan2025 21:35:18.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.46.90.35:45387] logged in with entity id 7766 at (-141.8325054205265, 63.0, -4118.179255536252)
 [01Jan2025 21:35:18.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
+[01Jan2025 21:40:41.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
+[01Jan2025 21:40:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
+[01Jan2025 21:45:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro was blown up by Intruder
+[01Jan2025 21:47:50.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Sneak 100]
+[01Jan2025 21:47:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> XD
