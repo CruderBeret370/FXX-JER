@@ -186,3 +186,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 22:16:09.821] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.6.50:46489] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [01Jan2025 22:17:36.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argonsito_Pro lost connection: Disconnected
 [01Jan2025 22:17:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro left the game
+[01Jan2025 22:24:26.847] [Thread-72/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1c69ca$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1c69ca$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01Jan2025 22:24:26.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AseyRed[/127.32.6.50:55677] logged in with entity id 21776 at (-230.36104399539875, 67.0, -4158.598274227228)
+[01Jan2025 22:24:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed joined the game
+[01Jan2025 22:25:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed has made the advancement [We Need to Go Deeper]
+[01Jan2025 22:26:02.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[01Jan2025 22:26:18.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito has made the advancement [Cover Me with Diamonds]
+[01Jan2025 22:31:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed was shot by Skeleton
+[01Jan2025 22:32:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -162 -17 -4828
+[01Jan2025 22:38:58.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AseyRed lost connection: Disconnected
+[01Jan2025 22:38:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed left the game
