@@ -209,3 +209,5 @@ java.lang.IllegalStateException: not found
 [01Jan2025 22:32:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> -162 -17 -4828
 [01Jan2025 22:38:58.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AseyRed lost connection: Disconnected
 [01Jan2025 22:38:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed left the game
+[01Jan2025 22:51:36.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[01Jan2025 22:51:36.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game
