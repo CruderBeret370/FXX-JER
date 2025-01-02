@@ -2233,9 +2233,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_flint": "2025-01-01 21:23:59 +0000"
+      "entered_nether": "2025-01-01 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-01 21:17:49 +0000"
     },
     "done": true
   },
@@ -2245,15 +2251,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_beetroot": "2025-01-01 21:37:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-01 21:17:49 +0000"
+      "has_flint": "2025-01-01 21:23:59 +0000"
     },
     "done": true
   },
@@ -2275,9 +2275,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "entered_nether": "2025-01-01 21:17:49 +0000"
+      "has_beetroot": "2025-01-01 21:37:54 +0000"
     },
     "done": true
   },
