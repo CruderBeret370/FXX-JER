@@ -165,3 +165,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 22:08:53.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.46.90.35:57751] logged in with entity id 2506 at (-233.81471727026667, 81.9375, -4158.772293875662)
 [02Jan2025 22:08:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
 [02Jan2025 22:10:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] stop
+[02Jan2025 22:29:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Tactical Fishing]
+[02Jan2025 22:33:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] recien?
