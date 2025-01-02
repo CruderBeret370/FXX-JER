@@ -167,3 +167,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 22:10:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] stop
 [02Jan2025 22:29:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [Tactical Fishing]
 [02Jan2025 22:33:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] recien?
+[02Jan2025 22:43:29.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47, l='ServerLevel[world]', x=-160.70, y=76.00, z=-4175.80] died, message: 'Farmer was slain by Zombie'
+[02Jan2025 22:43:40.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/44, l='ServerLevel[world]', x=-153.61, y=75.94, z=-4171.42] died, message: 'Farmer was slain by Zombie Villager'

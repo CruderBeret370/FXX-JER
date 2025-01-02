@@ -1738,3 +1738,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 22:31:22.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 22:31:22.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jan2025 22:33:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] recien?
+[02Jan2025 22:36:22.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:36:22.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:41:22.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:41:22.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:43:29.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47, l='ServerLevel[world]', x=-160.70, y=76.00, z=-4175.80] died, message: 'Farmer was slain by Zombie'
+[02Jan2025 22:43:40.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/44, l='ServerLevel[world]', x=-153.61, y=75.94, z=-4171.42] died, message: 'Farmer was slain by Zombie Villager'
