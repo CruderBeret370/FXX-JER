@@ -201,3 +201,38 @@ java.lang.IllegalStateException: not found
 [02Jan2025 22:58:11.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AseyRed[/127.32.6.50:46475] logged in with entity id 12990 at (26.30000001192093, 32.0, -4443.509960391404)
 [02Jan2025 22:58:11.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed joined the game
 [02Jan2025 23:05:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed has made the advancement [Isn't It Iron Pick]
+[02Jan2025 23:08:30.301] [Thread-60/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mddde04b$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mddde04b$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02Jan2025 23:08:30.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANDY_SN[/127.226.98.66:41139] logged in with entity id 15943 at (-241.69999998807907, 82.0, -4152.049243494882)
+[02Jan2025 23:08:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN joined the game
+[02Jan2025 23:08:38.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> OÑA
+[02Jan2025 23:08:50.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> OÑA
+[02Jan2025 23:09:05.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> se fueron al nether?
+[02Jan2025 23:09:08.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> ño
+[02Jan2025 23:09:17.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> y este portal?
+[02Jan2025 23:09:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AseyRed> me fui yo
+[02Jan2025 23:09:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> de ema
+[02Jan2025 23:09:24.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AseyRed> me papearon
+[02Jan2025 23:10:01.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN has made the advancement [We Need to Go Deeper]
+[02Jan2025 23:10:03.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[02Jan2025 23:12:09.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[02Jan2025 23:12:35.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> Bueno me voy muchachos ya fue mucho mc
+[02Jan2025 23:12:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> xd
+[02Jan2025 23:13:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> bueno chau
+[02Jan2025 23:13:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANDY_SN> :D
+[02Jan2025 23:13:38.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANDY_SN lost connection: Disconnected
+[02Jan2025 23:13:38.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANDY_SN left the game
+[02Jan2025 23:15:09.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.46.90.35:40011] logged in with entity id 18309 at (-436.69999998807907, -30.0, -4188.300000011921)
+[02Jan2025 23:15:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
