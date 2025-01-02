@@ -182,3 +182,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 22:53:52.416] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [02Jan2025 22:54:11.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.112.202.84:52151] logged in with entity id 11969 at (-9.42121895573368, -59.0, -4267.445829220472)
 [02Jan2025 22:54:11.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[02Jan2025 22:55:20.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
+[02Jan2025 22:55:20.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
+[02Jan2025 22:58:11.577] [Thread-54/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23132!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mddde04b$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mddde04b$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23139!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02Jan2025 22:58:11.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AseyRed[/127.32.6.50:46475] logged in with entity id 12990 at (26.30000001192093, 32.0, -4443.509960391404)
+[02Jan2025 22:58:11.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed joined the game
+[02Jan2025 23:05:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed has made the advancement [Isn't It Iron Pick]
