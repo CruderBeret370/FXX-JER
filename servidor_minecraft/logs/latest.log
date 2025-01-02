@@ -162,3 +162,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 21:56:24.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.112.202.84:39809] logged in with entity id 41 at (-162.40352754546623, 71.0, -4191.166480570998)
 [02Jan2025 21:56:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
 [02Jan2025 21:56:34.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10679ms or 213 ticks behind
+[02Jan2025 22:08:53.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.46.90.35:57751] logged in with entity id 2506 at (-233.81471727026667, 81.9375, -4158.772293875662)
+[02Jan2025 22:08:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
+[02Jan2025 22:10:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] stop
