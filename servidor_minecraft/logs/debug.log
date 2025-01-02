@@ -2453,3 +2453,18 @@ java.lang.IllegalStateException: not found
 [02Jan2025 23:15:09.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarSS_JQ[/127.46.90.35:40011] logged in with entity id 18309 at (-436.69999998807907, -30.0, -4188.300000011921)
 [02Jan2025 23:15:09.645] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@e1a0ff2 into net.minecraft.network.Connection@5e9afedb
 [02Jan2025 23:15:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ joined the game
+[02Jan2025 23:16:28.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:16:28.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 23:16:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> keite tobix
+[02Jan2025 23:17:19.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AseyRed has made the advancement [Not Today, Thank You]
+[02Jan2025 23:19:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> pasen coords
+[02Jan2025 23:19:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> de la base
+[02Jan2025 23:19:35.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> -199 88 -4199
+[02Jan2025 23:21:28.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:21:28.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 23:24:02.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> solo encontre 1 diamante dx
+[02Jan2025 23:24:04.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> y ya la use
+[02Jan2025 23:24:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> el diamante
+[02Jan2025 23:25:42.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarSS_JQ> ya vengoid+
+[02Jan2025 23:25:43.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarSS_JQ lost connection: Disconnected
+[02Jan2025 23:25:43.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ left the game
