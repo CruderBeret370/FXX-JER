@@ -162,3 +162,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 22:08:10.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.243.150.161:53349] logged in with entity id 41 at (-270.03886897419477, -49.0, -3526.0803850588654)
 [03Jan2025 22:08:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
 [03Jan2025 22:08:14.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
+[03Jan2025 22:53:13.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 12 players online: Argonsito_Pro
+[03Jan2025 22:53:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya void
+[03Jan2025 22:53:18.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> uwu
+[03Jan2025 22:53:35.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] furina fue de los primeros en decirme primito
+[03Jan2025 22:53:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dile
+[03Jan2025 22:53:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> pe
+[03Jan2025 22:53:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] cfff
+[03Jan2025 22:53:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> apenas lo escucho
+[03Jan2025 22:55:04.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salchipollazito[/127.72.233.4:48495] logged in with entity id 9195 at (-88.30000001192093, -34.0, -5021.660966177123)
+[03Jan2025 22:55:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito joined the game
+[03Jan2025 22:55:07.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[03Jan2025 22:55:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salchipollazito> como que crudo
+[03Jan2025 22:55:13.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salchipollazito lost connection: Disconnected
+[03Jan2025 22:55:13.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salchipollazito left the game

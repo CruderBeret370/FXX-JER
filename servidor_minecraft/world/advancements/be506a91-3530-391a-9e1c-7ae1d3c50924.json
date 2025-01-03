@@ -2349,6 +2349,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 22:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-03 22:31:30 +0000"
