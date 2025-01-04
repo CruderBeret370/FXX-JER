@@ -181,3 +181,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jan2025 05:18:11.825] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [04Jan2025 05:18:56.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Argonsito_Pro[/127.243.150.161:57851] logged in with entity id 1122 at (-147.9354355232248, 64.0, -4157.604045270138)
 [04Jan2025 05:18:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Argonsito_Pro joined the game
+[04Jan2025 05:20:10.517] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-147, y=64, z=-4156}
+[04Jan2025 05:25:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [What a Deal!]
+[04Jan2025 05:25:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> recien?
+[04Jan2025 05:27:48.327] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
