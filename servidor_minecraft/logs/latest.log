@@ -185,3 +185,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jan2025 05:25:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarSS_JQ has made the advancement [What a Deal!]
 [04Jan2025 05:25:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> recien?
 [04Jan2025 05:27:48.327] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[04Jan2025 05:34:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Argonsito_Pro> 36
